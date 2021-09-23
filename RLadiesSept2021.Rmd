@@ -74,6 +74,9 @@ To see a list of files in the directory you are currently in: ls; windows: dir
 ```{r}
 # First where are we? 
 getwd()
+
+
+
 #read.csv("/Users/Kaleigh/Desktop/Bats_Capture_Database.csv")
 data<-read.csv("./Bats_Capture_Database.csv") # Relative file path 
 
