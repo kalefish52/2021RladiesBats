@@ -75,13 +75,14 @@ To see a list of files in the directory you are currently in: ls; windows: dir
 # First where are we? 
 getwd()
 
-#read.csv("/Users/Kaleigh/Desktop/Bats_Capture_Database.csv")
+#read.csv("/Users/Kaleigh/Desktop/Bats_Capture_Database.csv") # Absolute 
 data<-read.csv("./Bats_Capture_Database.csv") # Relative file path 
 
 # What are the columns? 
 names(data) # can also look at readme file 
 # How many samples do we have? 
-print(paste("We have", nrow(data), "samples."))
+nrow(data)
+print(paste("We have", nrow(data), "bat samples."))
 
 head(data)
 ```
