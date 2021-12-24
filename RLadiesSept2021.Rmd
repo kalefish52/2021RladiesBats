@@ -90,6 +90,7 @@ head(data)
 # Descriptive Info about Data
 ```{r}
 library(ggplot2)
+names(data)
 # How many bat species are in the dataset? 
 batspec<-unique(data["Species"]) 
 nrow(batspec)
