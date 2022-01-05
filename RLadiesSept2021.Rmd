@@ -93,14 +93,17 @@ library(ggplot2)
 names(data)
 # How many bat species are in the dataset? 
 batspec<-unique(data["Species"]) 
-nrow(batspec)
+print(paste("There are", nrow(batspec), "species in the dataset."))
+
+# Reduce dataframe
+SpeciesRed<-unique(data[c("Habitat", "Species")])
+
 
 # How many species in each habitat type? 
 SpeciesRich<-aggregate(Species~Habitat,
-                     data=data,
+                     data=SpeciesRed,
                      FUN=length)
 SpeciesRich
-
 # Graph it 
 ggplot(data=SpeciesRich, aes(x=Habitat, y=Species)) +
     geom_bar(colour="black", stat="identity")
