@@ -77,8 +77,9 @@ To see a list of files in the directory you are currently in: ls; windows: dir
 # First where are we? 
 getwd()
 
-#read.csv("/Users/Kaleigh/Desktop/Bats_Capture_Database.csv") # Absolute 
+read.csv("/Users/Kaleigh/Dropbox/2021RLadiesBats/Bats_Capture_Database.csv") # Absolute 
 data<-read.csv("./Bats_Capture_Database.csv") # Relative file path 
+
 
 # What are the columns? 
 names(data) # can also look at readme file 
