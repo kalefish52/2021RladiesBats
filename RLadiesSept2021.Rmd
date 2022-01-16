@@ -22,12 +22,12 @@ output:
 ie. data manipulation and analysis can be executed and critiqued by any person, including the primary investigator
 + Make sure to take lots of notes: describe the data and your code 
 
-# What is github? 
+## What is github? 
 A development platform that has a variety of tools, including collaborative coding. 
 -Can create repositories with coding scripts that can be shared and modified by multiple users. 
 -Version control 
 
-# Benefits of reproducible data management
+## Benefits of reproducible data management
 1. Remind yourself and others how you organized and analyzed your data - easier to complete manuscript/presentation
 2. More transparency, confidence and rigor - part of the peer review process?
 3. Greater trust from the scientific community and the general public 
