@@ -75,11 +75,11 @@ To see a list of files in the directory you are currently in: ls; windows: dir
 # Now lets look at our data 
 ```{r}
 # First where are we? 
-getwd()
+getwd()  # prints out current working directory 
 
-read.csv("/Users/Kaleigh/Dropbox/2021RLadiesBats/Bats_Capture_Database.csv") # Absolute 
+read.csv("/Users/Kaleigh/Dropbox/2021RLadiesBats/Bats_Capture_Database.csv") # Absolute file path 
 data<-read.csv("./Bats_Capture_Database.csv") # Relative file path 
-
+data
 
 # What are the columns? 
 names(data) # can also look at readme file 
@@ -96,17 +96,19 @@ library(ggplot2)
 names(data)
 # How many bat species are in the dataset? 
 batspec<-unique(data["Species"]) 
+
 print(paste("There are", nrow(batspec), "species in the dataset."))
 
-# Reduce dataframe
-SpeciesRed<-unique(data[c("Habitat", "Species")])
 
+# Reduce dataframe
+SpeciesRed<-unique(data[c("Habitat", "Species")]) 
+SpeciesRed[order(SpeciesRed$Habitat),]
 
 # How many species in each habitat type? 
 SpeciesRich<-aggregate(Species~Habitat,
                      data=SpeciesRed,
                      FUN=length)
-SpeciesRich
+
 # Graph it 
 ggplot(data=SpeciesRich, aes(x=Habitat, y=Species)) +
     geom_bar(colour="black", stat="identity")
