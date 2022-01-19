@@ -7,6 +7,7 @@ output:
   pdf_document: default
 ---
 
+Kaleigh push/pull practice
 # Best practices for data management
 1. Organize data and projects in an accessible way - for both the primary investigator and others 
 + Descriptive naming 
