@@ -9,6 +9,7 @@ output:
 
 Kaleigh push/pull practice
 eder is cool
+Rawan push/pull practice  
 # Best practices for data management
 1. Organize data and projects in an accessible way - for both the primary investigator and others 
 + Descriptive naming 
@@ -80,7 +81,7 @@ To see a list of files in the directory you are currently in: ls; windows: dir
 # First where are we? 
 getwd()  # prints out current working directory 
 
-read.csv("/Users/Kaleigh/Dropbox/2021RLadiesBats/Bats_Capture_Database.csv") # Absolute file path 
+read.csv("/Users/rawanaljudeid/Desktop/2021RladiesBats/Bats_Capture_Database.csv") # Absolute file path 
 data<-read.csv("./Bats_Capture_Database.csv") # Relative file path 
 data
 
