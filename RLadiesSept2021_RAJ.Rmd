@@ -103,11 +103,11 @@ class(data)
 length(Genus)
 
 matrixdata<-as.matrix(data)
-matrixdata$Genus
+unique(data$species)
 class(matrixdata)
 as.data.frame(matrixdata)
 head(data)
-matrixdata
+
 ```
 
 # Descriptive Info about Data
