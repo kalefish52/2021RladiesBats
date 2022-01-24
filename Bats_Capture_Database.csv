@@ -1,0 +1,1238 @@
+Date,Time,Mist.net,Family,Genus,Species,Sex,Weight.specimen.&.bag,Weight.bag,Forearm,Age,Reproductive.state,Deposit.code,Site.Category,Site.Code,Habitat,Guild
+05/20/14,18:00,B1,Phyllostomidae,Carollia,Carollia.brevicauda,male,34,18,44.3,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/20/14,18:00,B2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,25,16,34,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/20/14,18:00,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,male,32,15,40.8,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/20/14,18:00,Q2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,25,16,34.3,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/20/14,18:00,S2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,31,21,36.1,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+05/20/14,18:30,S1,Phyllostomidae,Artibeus,Artibeus.lituratus,male,N/A,N/A,74.7,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.canopy.frugivores
+05/20/14,18:30,B1,Phyllostomidae,Carollia,Carollia.perspicillata,male,30,12,41.6,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/20/14,19:00,B2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.sanguivores
+05/20/14,19:30,S2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,56,18,59.4,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.canopy.frugivores
+05/20/14,20:00,B2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,21,11,34.7,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/20/14,20:30,S2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,male,28,18,34,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+05/20/14,20:30,Q2,Phyllostomidae,Artibeus,Artibeus.lituratus,female,90,11,72,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.canopy.frugivores
+05/20/14,20:30,S1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,56,15,61.3,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.canopy.frugivores
+05/20/14,21:00,B1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,26,16,35,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/20/14,21:00,Q1,Phyllostomidae,Mesophylla ,Mesophylla.macconnelli,female,26,19,31.2,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/20/14,21:00,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,male,29,13,42.8,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/20/14,21:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,76,N/A,66.8,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.canopy.frugivores
+05/20/14,22:00,B1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,29,19,35,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/20/14,22:30,Q2,Phyllostomidae,Lonchophylla ,Lonchophylla.thomasi,female,24,16,31.7,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.gleaning.nectarivores
+05/22/14,18:00,Q2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,24,14,34.3,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/22/14,18:30,S1,Phyllostomidae,Artibeus,Artibeus.lituratus,male,90,16,74,adult,S,N/A,F,F1,edge,Highly.cluttered.space.canopy.frugivores
+05/22/14,20:30,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,N/A,N/A,N/A,N/A,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.canopy.frugivores
+05/22/14,22:00,B2,Phyllostomidae,Carollia,Carollia.perspicillata,female,30,12,41.6,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/22/14,22:00,S1,Phyllostomidae,Carollia,Carollia.perspicillata,female,28,10,40.6,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+05/22/14,23:00,Q1,Phyllostomidae,Artibeus,Artibeus.lituratus,male,104,14,73.6,adult,S,N/A,F,F1,stream,Highly.cluttered.space.canopy.frugivores
+05/22/14,23:30,Q2,Phyllostomidae,Desmodus,Desmodus.rotundus,male,N/A,N/A,N/A,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.gleaning.sanguivores
+05/22/14,23:30,S2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,76,16,65.8,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.canopy.frugivores
+05/22/14,23:30,B2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,54,12,59,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.canopy.frugivores
+05/23/14,18:30,S1,Phyllostomidae,Artibeus,Artibeus.lituratus,male,82,15,71.5,adult,S,N/A,F,F1,edge,Highly.cluttered.space.canopy.frugivores
+05/23/14,19:00,Q2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,25,17,33.7,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/23/14,19:30,Q1,Phyllostomidae,Artibeus,Artibeus.lituratus,male,89,15,71.4,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.canopy.frugivores
+05/23/14,19:30,S1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,60,19,59.7,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.canopy.frugivores
+05/23/14,19:30,S1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,60,14,60.3,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.canopy.frugivores
+05/23/14,20:00,S2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,21,11,34.7,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+05/23/14,20:00,B2,Phyllostomidae,Carollia,Carollia.perspicillata,female,33,13,41.8,juvenil,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/23/14,20:00,B1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,74,15,67.2,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.canopy.frugivores
+05/23/14,21:00,Q2,Phyllostomidae,Artibeus,Artibeus.lituratus,female,102,44,72.4,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.canopy.frugivores
+05/23/14,21:00,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,N/A,75,12,68.3,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.canopy.frugivores
+05/23/14,21:00,S1,Phyllostomidae,Artibeus,Artibeus.lituratus,male,112,35,77.8,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.canopy.frugivores
+05/23/14,21:00,Q2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.gleaning.sanguivores
+05/23/14,22:30,B1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,27,17,34.4,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/23/14,22:30,S2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,20,11,34.5,subadult,N/A,N/A,F,F1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+05/23/14,22:30,S2,Phyllostomidae,Carollia,Carollia.brevicauda,male,43,N/A,42.6,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+05/23/14,22:30,S2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,N/A,N/A,N/A,N/A,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+05/23/14,23:00,S2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,54,15,60.3,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.canopy.frugivores
+05/23/14,23:30,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,82,16,66.2,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.canopy.frugivores
+05/23/14,23:30,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,82,16,66.7,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.canopy.frugivores
+05/24/14,18:30,B2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,55,15,59.8,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.canopy.frugivores
+05/24/14,18:30,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,85,29,63,adult,S,N/A,F,F1,edge,Highly.cluttered.space.canopy.frugivores
+05/24/14,20:00,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,79,29,67.6,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.canopy.frugivores
+05/24/14,20:00,B2,Phyllostomidae,Dermanura,Dermanura.anderseni,female,30,15,38,adult,"PD,Pde",N/A,F,F1,matrix,Highly.cluttered.space.canopy.frugivores
+05/24/14,20:00,B2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.sanguivores
+05/24/14,20:30,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,83,15,71.5,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.canopy.frugivores
+05/24/14,20:30,Q2,Phyllostomidae,Artibeus,Artibeus.lituratus,female,118,33,73.3,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.canopy.frugivores
+05/24/14,20:30,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,69,12,69,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.canopy.frugivores
+05/24/14,21:00,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,55,18,59.4,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.canopy.frugivores
+05/24/14,20:30,S1,Phyllostomidae,Artibeus,Artibeus.lituratus,male,95,22,74,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.canopy.frugivores
+05/24/14,21:00,S1,Phyllostomidae,Artibeus,Artibeus.lituratus,female,80,15,69.7,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.canopy.frugivores
+05/24/14,21:30,S1,Phyllostomidae,Sturnira,Sturnira.lilium,male,43,N/A,45.3,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+05/24/14,22:00,B2,Phyllostomidae,Artibeus,Artibeus.lituratus,female,76,10,71,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.canopy.frugivores
+05/24/14,21:30,B2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,26,17,35,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/24/14,21:30,B1,Phyllostomidae,Carollia,Carollia.perspicillata,male,29,11,42.5,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/24/14,21:30,B1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,N/A,94,16,78.3,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.omnivores
+05/24/14,22:30,Q2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,24,14,33.5,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/24/14,23:00,B1,Phyllostomidae,Carollia,Carollia.brevicauda,male,32,16,38.7,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/24/14,23:00,Q2,Phyllostomidae,Artibeus,Artibeus.lituratus,female,93,11,73.2,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.canopy.frugivores
+05/24/14,23:00,Q2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,23,15,33.5,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/24/14,23:00,S2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,78,17,67,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.canopy.frugivores
+05/24/14,23:30,B2,Phyllostomidae,Carollia,Carollia.perspicillata,male,35,N/A,42.4,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,18:00,Q1,Phyllostomidae,Carollia,Carollia.benkeithi,male,35,21,35.7,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,18:00,B1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,114,17,83.4,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.omnivores
+05/26/14,18:00,B2,Phyllostomidae,Carollia,Carollia.brevicauda,male,31,15,40.6,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,18:00,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,76,15,66.6,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/26/14,18:00,B1,Phyllostomidae,Carollia,Carollia.brevicauda,male,31,16,40,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,18:00,S1,Phyllostomidae,Carollia,Carollia.perspicillata,female,31,15,42.3,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,18:00,S1,Phyllostomidae,Mesophylla ,Mesophylla.macconnelli,male,24,16,30.2,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,18:00,Q1,Phyllostomidae,Carollia,Carollia.benkeithi,female,22,10,36.6,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,18:00,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,male,31,11,43.2,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,18:30,Q2,Phyllostomidae,Sturnira,Sturnira.lilium,female,33,10,45,adult,Pr,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,18:30,Q2,Phyllostomidae,Carollia,Carollia.brevicauda,female,30,16,38.4,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,18:30,Q2,Phyllostomidae,Mesophylla ,Mesophylla.macconnelli,female,19,10,36,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,18:30,Q2,Phyllostomidae,Carollia,Carollia.brevicauda,female,31,15,38.6,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,18:30,Q2,Phyllostomidae,Carollia,Carollia.brevicauda,female,31,16,38.4,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,19:00,B1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,87,17,67.7,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/26/14,19:00,B1,Phyllostomidae,Carollia,Carollia.brevicauda,male,39,22,38.7,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,19:00,B1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,99,16,83,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.omnivores
+05/26/14,19:00,B1,Phyllostomidae,Carollia,Carollia.brevicauda,female,30,15,39,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,19:30,S1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,54,15,60.5,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.canopy.frugivores
+05/26/14,19:30,S2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,65,11,66.5,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.canopy.frugivores
+05/26/14,19:30,B2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,male,21,11,34,adult,S,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,20:00,B1,Phyllostomidae,Carollia,Carollia.perspicillata,female,33,15,41.6,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,20:00,B1,Phyllostomidae,Carollia,Carollia.brevicauda,male,30,11,41.6,adult,S,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,20:00,B2,Phyllostomidae,Carollia,Carollia.brevicauda,female,27,12,41.7,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,20:00,Q2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,32,22,34,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,20:00,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,male,32,12,N/A,adult,S,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,20:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,82,16,68.8,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/26/14,20:30,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,female,34,18,41,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,20:30,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,70,10,67.3,adult,NS,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/26/14,21:00,Q2,Phyllostomidae,Artibeus,Artibeus.lituratus,female,78,12,76.3,adult,PD,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/26/14,21:00,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,female,28,10,42.5,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,21:00,B1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,82,18,67.6,adult,S,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/26/14,21:00,B1,Phyllostomidae,Artibeus,Artibeus.obscurus,male,48,16,57.3,subadult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/26/14,21:00,B2,Phyllostomidae,Lophostoma ,Lophostoma.silvicolum,N/A,40,12,55,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.insectivores
+05/26/14,21:30,B2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,24,16,35.5,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,21:30,Q1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.sanguivores
+05/26/14,21:30,S2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,73,14,68.1,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.canopy.frugivores
+05/26/14,21:30,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,81,15,68.8,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.canopy.frugivores
+05/26/14,21:30,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,75,15,67.6,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.canopy.frugivores
+05/26/14,21:30,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,female,37,17,41.6,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,21:30,Q2,Phyllostomidae,Sturnira,Sturnira.lilium,female,31,11,41,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,21:30,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,female,41,11,41.3,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,21:30,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,male,28,10,39.7,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,21:30,B2,Phyllostomidae,Artibeus,Artibeus.lituratus,male,72,10,70.7,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/26/14,21:30,B1,Phyllostomidae,Artibeus,Artibeus.lituratus,female,87,22,67.6,adult,PD,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/26/14,21:30,B1,Phyllostomidae,Carollia,Carollia.brevicauda,female,29,15,37.6,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,22:00,Q2,Phyllostomidae,Artibeus,Artibeus.lituratus,male,95,17,72.8,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/26/14,22:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,76,16,66.1,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/26/14,22:00,Q2,Phyllostomidae,Sturnira,Sturnira.lilium,male,32,11,44.3,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,22:00,Q1,Phyllostomidae,Sturnira,Sturnira.magna,female,63,15,56.3,adult,PD,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,22:00,B1,Phyllostomidae,Carollia,Carollia.perspicillata,female,30,16,38.7,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,22:00,B1,Phyllostomidae,Carollia,Carollia.brevicauda,male,28,12,40.9,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,22:00,B1,Phyllostomidae,Carollia,Carollia.perspicillata,female,68,10,42.7,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,22:00,B1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,78,14,65.2,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/26/14,22:00,B1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,78,18,66,adult,S,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/26/14,22:00,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,74,12,66.5,adult,NS,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/26/14,22:30,B2,Phyllostomidae,Carollia,Carollia.perspicillata,female,32,16,41,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,22:30,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,72,16,67.5,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/26/14,23:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,98,32,68.3,adult,PD,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/26/14,23:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,82,22,65.3,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/26/14,23:00,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,52,18,59.8,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/26/14,23:00,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,50,12,57.1,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/26/14,23:00,Q1,Phyllostomidae,Artibeus,Artibeus.obscurus,male,46,10,56,juvenile,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/26/14,23:00,Q1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,50,16,55.8,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/26/14,23:30,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,86,14,71.2,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/26/14,23:30,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,80,10,68.9,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/26/14,23:30,B2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.sanguivores
+05/26/14,23:30,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,N/A,N/A,N/A,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/26/14,23:30,B2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,N/A,N/A,N/A,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,23:30,B2,Phyllostomidae,Carollia,Carollia.perspicillata,male,N/A,N/A,N/A,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/26/14,23:30,B1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.sanguivores
+05/27/14,18:00,Q1,Phyllostomidae,Carollia,Carollia.benkeithi,female,22,12,35.4,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/27/14,18:30,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,70,16,67.3,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/27/14,18:30,B2,Phyllostomidae,Sturnira,Sturnira.lilium,female,38,16,44.6,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/27/14,18:30,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,74,15,69.7,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/27/14,19:00,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,80,N/A,70.3,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/27/14,19:00,Q2,Phyllostomidae,Carollia,Carollia.brevicauda,female,30,15,39.9,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/27/14,19:00,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,N/A,N/A,60.5,adult,PD,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/27/14,19:00,S2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,51,11,61.5,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.canopy.frugivores
+05/27/14,19:00,S2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,26,17,35.3,subadult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+05/27/14,19:00,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,23,11,35.5,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/27/14,19:30,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,98,N/A,69.4,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/27/14,19:30,Q2,Phyllostomidae,Artibeus,Artibeus.lituratus,female,100,17,73.5,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/27/14,19:30,Q1,Phyllostomidae,Lophostoma,Lophostoma.carrikeri,female,33,16,44,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.insectivores
+05/27/14,20:00,B1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.sanguivores
+05/27/14,20:00,B1,Phyllostomidae,Micronycteris,Micronycteris.megalotis,female,21,N/A,32.9,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.insectivores
+05/27/14,20:30,S1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.gleaning.sanguivores
+05/27/14,20:30,S1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,50,10,59.3,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.canopy.frugivores
+05/27/14,20:30,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,78,12,65.6,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.canopy.frugivores
+05/27/14,20:30,Q2,Phyllostomidae,Artibeus,Artibeus.lituratus,female,86,22,71.7,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/27/14,20:30,Q2,Phyllostomidae,Carollia,Carollia.brevicauda,female,30,14,40.8,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/27/14,20:30,B2,Phyllostomidae,Carollia,Carollia.perspicillata,female,32,12,43.1,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/27/14,20:30,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,80,18,69.7,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/27/14,20:30,B1,Phyllostomidae,Artibeus,Artibeus.lituratus,female,78,16,69.5,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/27/14,21:00,Q2,Phyllostomidae,Sturnira,Sturnira.lilium,female,36,14,43.4,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/27/14,21:00,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,female,28,12,42,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/27/14,21:00,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,74,18,67.2,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.canopy.frugivores
+05/27/14,21:30,Q2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.sanguivores
+05/27/14,21:30,Q1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.sanguivores
+05/27/14,21:30,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/27/14,21:30,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,75,12,68.2,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/27/14,21:30,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,80,18,68.2,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.canopy.frugivores
+05/27/14,21:30,S2,Phyllostomidae,Dermanura,Dermanura.glauca,male,24,N/A,36.7,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.canopy.frugivores
+05/27/14,21:30,B1,Phyllostomidae,Artibeus,Artibeus.obscurus,male,64,10,63.2,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/27/14,21:30,B1,Phyllostomidae,Artibeus,Artibeus.obscurus,male,N/A,N/A,59.8,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/27/14,21:30,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,81,23,68.3,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/27/14,22:00,B1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,84,14,67.7,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/27/14,22:00,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,72,16,67.4,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/27/14,22:00,B2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,40,10,57.7,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/27/14,22:00,B2,Phyllostomidae,Artibeus,Artibeus.lituratus,female,92,18,70.9,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/27/14,22:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,80,12,69.7,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/27/14,22:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,78,N/A,67.7,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/27/14,22:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,74,18,68.6,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/27/14,22:00,S1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,50,12,60.6,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.canopy.frugivores
+05/27/14,21:30,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/27/14,22:30,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,female,30,10,43.1,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/27/14,22:30,Q2,Phyllostomidae,Artibeus,Artibeus.lituratus,female,78,12,62,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/27/14,22:30,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,86,16,67.3,adult,Pde,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/27/14,23:00,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,66,12,64.5,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/27/14,23:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,74,12,67,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/27/14,23:00,Q2,Phyllostomidae,Sturnira,Sturnira.lilium,male,42,16,43.5,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/27/14,23:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,78,14,68.2,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/27/14,23:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,78,10,69,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/27/14,23:30,Q2,Phyllostomidae,Chiroderma,Chiroderma.villosum,male,30,10,47,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/28/14,18:00,B2,Phyllostomidae,Carollia,Carollia.benkeithi,male,26,14,35,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/28/14,18:30,B1,Phyllostomidae,Carollia,Carollia.brevicauda,male,36,16,38.7,adult,S,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/28/14,18:30,B1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,68,8,68.3,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/28/14,18:30,S2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,68,14,64.2,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.canopy.frugivores
+05/28/14,18:30,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,female,32,14,42.5,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/28/14,19:00,S2,Phyllostomidae,Carollia,Carollia.perspicillata,male,36,12,42.6,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+05/28/14,19:30,B1,Phyllostomidae,Carollia,Carollia.brevicauda,female,24,10,39.6,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/28/14,19:30,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,74,10,68.8,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/28/14,20:00,S2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,62,18,59,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.canopy.frugivores
+05/28/14,20:00,B2,Phyllostomidae,Carollia,Carollia.perspicillata,female,32,16,41.3,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/28/14,20:30,B1,Phyllostomidae,Carollia,Carollia.brevicauda,male,27,12,37.7,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/28/14,21:00,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,79,16,69.3,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.canopy.frugivores
+05/28/14,21:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,74,13,64.4,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/28/14,21:00,S2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.gleaning.sanguivores
+05/28/14,21:00,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/28/14,21:00,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,71,12,67,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/28/14,21:30,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,76,14,67.8,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/28/14,21:30,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,74,14,65.4,adult,L,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/28/14,21:30,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,78,12,69.4,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/28/14,22:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,85,30,66,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/28/14,22:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,78,12,70,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/28/14,22:00,Q2,Phyllostomidae,Sturnira,Sturnira.lilium,male,50,24,44,adult,S,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/28/14,22:30,S1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.gleaning.sanguivores
+05/28/14,22:30,Q2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.sanguivores
+05/28/14,23:00,B2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,50,12,60.7,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/28/14,23:30,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,82,18,70.4,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/29/14,18:00,Q2,Phyllostomidae,Carollia,Carollia.benkeithi,N/A,27,16,35.4,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/29/14,18:00,Q1,Phyllostomidae,Lophostoma,Lophostoma.carrikeri,female,32,16,N/A,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.insectivores
+05/29/14,18:30,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,male,37,16,43.6,adult,S,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/29/14,18:30,B1,Phyllostomidae,Carollia,Carollia.perspicillata,female,32,16,41.9,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/29/14,19:30,Q2,Phyllostomidae,Artibeus,Artibeus.lituratus,female,90,15,72.3,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/29/14,19:30,Q2,Phyllostomidae,Artibeus,Artibeus.lituratus,female,88,12,.72.7,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/29/14,19:30,Q2,Phyllostomidae,Uroderma ,Uroderma.bilobatum,male,34,17,44.5,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/29/14,19:30,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,male,35,27,43.5,subadult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/29/14,19:30,B2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,male,26,16,33,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/29/14,20:00,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,63,12,62.4,subadult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/29/14,20:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,84,12,70.4,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/29/14,20:00,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,49,17,57.3,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/29/14,20:00,Q2,Phyllostomidae,Artibeus,Artibeus.lituratus,male,93,17,74.4,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/29/14,21:00,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,74,17,66.5,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+05/29/14,21:00,Q1,Phyllostomidae,Artibeus,Artibeus.lituratus,female,109,17,73.1,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/29/14,21:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,73,16,66.6,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/29/14,21:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,75,11,70.9,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/29/14,21:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,76,18,69.6,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/29/14,22:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,81,18,65.7,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/29/14,22:00,Q2,Phyllostomidae,Carollia,Carollia.benkeithi,male,28,16,35,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/29/14,22:00,S2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,81,17,67.2,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.canopy.frugivores
+05/29/14,22:30,Q2,Phyllostomidae,Artibeus,Artibeus.lituratus,female,90,11,75.3,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/29/14,22:30,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,female,29,11,41.1,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/29/14,23:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,98,28,69,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+05/30/14,18:00,B1,Phyllostomidae,Carollia,Carollia.perspicillata,N/A,N/A,N/A,N/A,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,18:00,S1,Phyllostomidae,Carollia,Carollia.brevicauda,male,N/A,N/A,33,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,18:00,S1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,male,N/A,N/A,34.1,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,18:00,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,male,N/A,N/A,35.5,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,18:00,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,N/A,N/A,35,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,18:00,Q1,Phyllostomidae,Mimon,Mimon.crenulatum,female,30,17,49.1,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.insectivores
+05/30/14,18:00,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,N/A,N/A,34.4,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,18:30,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,N/A,N/A,67.9,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.canopy.frugivores
+05/30/14,18:30,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,N/A,N/A,61.3,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.canopy.frugivores
+05/30/14,18:30,B2,Phyllostomidae,Carollia,Carollia.brevicauda,N/A,30,15,39.1,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,18:30,B2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,N/A,N/A,59.4,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.canopy.frugivores
+05/30/14,19:00,B1,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,41,adult,PD,N/A,F,F2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,19:30,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,N/A,N/A,34.5,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,19:30,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,N/A,N/A,35.7,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,19:30,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,42.3,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,19:30,Q2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,N/A,N/A,N/A,N/A,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,20:00,B1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,N/A,N/A,68,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.canopy.frugivores
+05/30/14,20:00,B2,Phyllostomidae,Vampyriscus,Vampyriscus.bidens,female,28,16,35.4,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,20:00,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,N/A,N/A,66.3,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.canopy.frugivores
+05/30/14,20:30,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,male,N/A,N/A,33.7,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,20:30,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,N/A,N/A,65.4,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.canopy.frugivores
+05/30/14,20:30,S2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,N/A,N/A,35.6,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,20:30,B2,Phyllostomidae,Vampyriscus,Vampyriscus.bidens,female,30,16,37.2,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,20:30,B1,Phyllostomidae,Carollia,Carollia.brevicauda,female,34,18,40.3,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,21:00,S1,Phyllostomidae,Carollia,Carollia.perspicillata,female,34,15,42.6,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,21:30,B1,Phyllostomidae,Artibeus,Artibeus.planirostris,N/A,N/A,N/A,N/A,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.canopy.frugivores
+05/30/14,21:30,B1,Phyllostomidae,Uroderma ,Uroderma.magnirostrum,male,33,15,41.3,adult,S,N/A,F,F2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,22:00,B2,Phyllostomidae,Vampyriscus,Vampyriscus.bidens,female,28,16,37.6,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,22:30,S1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,N/A,16,34.4,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,22:30,Q2,Phyllostomidae,Carollia,Carollia.brevicauda,male,27,11,40,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,22:30,Q2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,24,15,34,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,22:30,B2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,55,16,60,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.canopy.frugivores
+05/30/14,23:00,Q2,Phyllostomidae,Carollia,Carollia.brevicauda,male,34,17,38.8,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,22:30,S2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,68,12,65.7,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.canopy.frugivores
+05/30/14,23:00,S1,Phyllostomidae,Vampyriscus,Vampyriscus.bidens,male,28,16,37.6,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,23:00,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,80,16,70,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.canopy.frugivores
+05/30/14,23:00,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,22,12,35.7,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,23:00,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,22,12,34,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/30/14,23:00,S2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,78,14,67.7,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.canopy.frugivores
+05/30/14,23:30,S1,Phyllostomidae,Mimon,Mimon.crenulatum,female,30,18,47.9,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.insectivores
+05/30/14,23:30,Q1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.sanguivores
+05/31/14,18:00,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,38,18,35.5,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/31/14,19:00,B2,Phyllostomidae,Phyllostomus,Phyllostomus.elongatus,female,78,44,66.8,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.gleaning.omnivores
+05/31/14,18:30,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,80,12,67.4,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.canopy.frugivores
+05/31/14,18:30,B1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,70,12,65,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.canopy.frugivores
+05/31/14,19:00,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,70,17,64.8,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.canopy.frugivores
+05/31/14,19:00,S1,Phyllostomidae,Vampyriscus,Vampyriscus.bidens,N/A,N/A,N/A,N/A,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+05/31/14,19:30,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,22,12,35,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/31/14,19:30,Q1,Phyllostomidae,Uroderma ,Uroderma.bilobatum,male,44,27,42,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/31/14,20:00,Q1,Phyllostomidae,Trinycteris,Trinycteris.nicefori,female,N/A,N/A,37.6,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.insectivores
+05/31/14,20:00,S1,Phyllostomidae,Vampyriscus,Vampyriscus.bidens,male,25,N/A,36.7,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+05/31/14,20:30,S1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,N/A,N/A,N/A,N/A,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+05/31/14,20:30,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,78,12,70.2,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.canopy.frugivores
+05/31/14,21:00,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,86.5,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.omnivores
+05/31/14,21:00,B1,Phyllostomidae,Vampyriscus,Vampyriscus.bidens,female,24,11,35,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+05/31/14,21:30,B1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,58,16,62.6,adult,PD,N/A,F,F2,matrix,Highly.cluttered.space.canopy.frugivores
+05/31/14,22:00,B1,Phyllostomidae,Vampyressa ,Vampyressa.thyone,male,20,N/A,30.9,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.canopy.frugivores
+05/31/14,22:00,Q1,Phyllostomidae,Lophostoma ,Lophostoma.silvicolum,female,36,11,53.7,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.insectivores
+05/31/14,22:30,S2,Phyllostomidae,Carollia,Carollia.perspicillata,female,35,16,42,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+05/31/14,22:30,B2,Phyllostomidae,Artibeus,Artibeus.lituratus,female,102,16,70.9,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.canopy.frugivores
+05/31/14,22:30,Q1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,53,17,57.5,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.canopy.frugivores
+05/31/14,22:30,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,25,16,35.7,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+05/31/14,23:00,S2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,87,16,68.5,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.canopy.frugivores
+05/31/14,23:30,S1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,56,12,60.4,adult,Pr,N/A,F,F2,edge,Highly.cluttered.space.canopy.frugivores
+05/31/14,23:30,S2,Phyllostomidae,Carollia,Carollia.perspicillata,female,33,16,42.3,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/01/14,18:30,S1,Phyllostomidae,Artibeus,Artibeus.lituratus,female,96,12,74,adult,PD ,N/A,F,F2,edge,Highly.cluttered.space.canopy.frugivores
+06/01/14,18:30,B1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,84,16,67.7,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.canopy.frugivores
+06/01/14,19:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,70,12,63.7,adult,S,N/A,F,F2,stream,Highly.cluttered.space.canopy.frugivores
+06/01/14,19:00,B1,Phyllostomidae,Vampyriscus,Vampyriscus.bidens,female,30,16,37.7,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/01/14,19:30,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,male,30,12,41.4,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/01/14,20:00,S1,Phyllostomidae,Artibeus,Artibeus.lituratus,male,89,12,42.7,adult,S,N/A,F,F2,edge,Highly.cluttered.space.canopy.frugivores
+06/01/14,20:30,S2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,51,16,59.5,adult,S,N/A,F,F2,edge,Highly.cluttered.space.canopy.frugivores
+06/01/14,20:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.elongatus,N/A,N/A,N/A,N/A,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.omnivores
+06/01/14,20:30,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,22,12,33.4,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/01/14,21:00,Q1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.sanguivores
+06/01/14,21:30,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,81,12,67.8,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.canopy.frugivores
+06/01/14,21:30,S1,Phyllostomidae,Carollia,Carollia.perspicillata,female,37,16,43.8,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/01/14,21:30,S2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,19,12,33.9,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/01/14,22:00,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,49,11,61.1,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.canopy.frugivores
+06/01/14,22:30,Q2,Phyllostomidae,Carollia,Carollia.brevicauda,female,28,12,38.1,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/01/14,23:30,S2,Phyllostomidae,Vampyriscus,Vampyriscus.bidens,female,25,11,37.3,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/01/14,23:30,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,80,17,66.4,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.canopy.frugivores
+06/02/14,18:00,Q1,Phyllostomidae,Carollia,Carollia.brevicauda,female,25,11,38.3,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/02/14,18:30,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,80,16,70.6,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.canopy.frugivores
+06/02/14,19:30,S1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.sanguivores
+06/02/14,21:00,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,81,15,70.5,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.canopy.frugivores
+06/02/14,21:30,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,50,15,59,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.canopy.frugivores
+06/02/14,22:30,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,female,35,17,43.3,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/02/14,23:00,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,29,18,33.3,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/02/14,23:30,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,80,11,69.5,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.canopy.frugivores
+06/02/14,23:30,Q1,Phyllostomidae,Tonatia,Tonatia.saurophila,male,38,12,55.8,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.insectivores
+06/02/14,23:30,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,52,16,61.7,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.canopy.frugivores
+06/02/14,23:30,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,86,18,66.3,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.canopy.frugivores
+06/02/14,23:30,S2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,26,16,33.4,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,18:00,Q1,Phyllostomidae,Carollia,Carollia.benkeithi,female,N/A,N/A,N/A,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,18:30,S1,Phyllostomidae,Artibeus,Artibeus.lituratus,male,N/A,N/A,N/A,adult,S,N/A,FS,FS2,edge,Highly.cluttered.space.canopy.frugivores
+06/04/14,18:00,S1,Phyllostomidae,Vampyressa ,Vampyressa.thyone,male,N/A,N/A,30.7,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.canopy.frugivores
+06/04/14,18:30,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,N/A,N/A,67.6,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.canopy.frugivores
+06/04/14,18:00,B1,Phyllostomidae,Tonatia,Tonatia.saurophila,male,N/A,N/A,56.6,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.insectivores
+06/04/14,18:00,S2,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,40.3,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,18:00,S2,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,43,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,18:00,S2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,N/A,N/A,67.7,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.canopy.frugivores
+06/04/14,18:00,S2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,male,N/A,N/A,32,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,18:00,S1,Phyllostomidae,Trachops ,Trachops.cirrhosus,female,N/A,N/A,58.9,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.carnivores
+06/04/14,18:00,S1,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,38.3,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,18:00,S1,Phyllostomidae,Carollia,Carollia.benkeithi,female,N/A,N/A,34,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,18:00,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,N/A,N/A,68,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.canopy.frugivores
+06/04/14,18:00,Q1,Phyllostomidae,Carollia,Carollia.benkeithi,female,N/A,N/A,34.5,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,18:00,Q1,Phyllostomidae,Carollia,Carollia.benkeithi,female,N/A,N/A,35.7,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,18:30,B1,Phyllostomidae,Artibeus,Artibeus.lituratus,male,N/A,N/A,72.5,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.canopy.frugivores
+06/04/14,18:30,B1,Phyllostomidae,Artibeus,Artibeus.lituratus,male,N/A,N/A,75.7,adult,S,N/A,FS,FS2,matrix,Highly.cluttered.space.canopy.frugivores
+06/04/14,18:30,B1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,N/A,N/A,68.4,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.canopy.frugivores
+06/04/14,19:00,S2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,N/A,N/A,32.8,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,18:00,B1,Phyllostomidae,Carollia,Carollia.brevicauda,male,N/A,N/A,40.3,adult,S,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,19:00,B2,Phyllostomidae,Vampyressa ,Vampyressa.thyone,male,23,15,30.4,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.canopy.frugivores
+06/04/14,19:00,B2,Phyllostomidae,Carollia,Carollia.brevicauda,male,32,17,38.7,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,19:00,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,72,12,67.2,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.canopy.frugivores
+06/04/14,18:00,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.omnivores
+06/04/14,19:00,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,72,12,66,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.canopy.frugivores
+06/04/14,19:00,B2,Phyllostomidae,Tonatia,Tonatia.saurophila,male,40,12,N/A,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.insectivores
+06/04/14,19:00,B2,Phyllostomidae,Carollia,Carollia.brevicauda,female,30,16,38.7,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,19:00,S1,Phyllostomidae,Carollia,Carollia.brevicauda,female,26,12,38.3,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,19:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.omnivores
+06/04/14,19:30,S1,Phyllostomidae,Artibeus,Artibeus.obscurus,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.canopy.frugivores
+06/04/14,19:30,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,82,16,69.1,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.canopy.frugivores
+06/04/14,19:30,B2,Phyllostomidae,Dermanura,Dermanura.anderseni,male,26,17,34.8,adult,N/A,CEBIOMAS0433,FS,FS2,matrix,Highly.cluttered.space.canopy.frugivores
+06/04/14,19:30,Q1,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,39.3,Subadult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,19:30,Q1,Phyllostomidae,Carollia,Carollia.brevicauda,female,32,16,39.6,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,20:00,B2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,50,16,59.5,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.canopy.frugivores
+06/04/14,20:00,S2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,26,16,34.3,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,20:30,S1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.sanguivores
+06/04/14,20:30,S1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.sanguivores
+06/04/14,20:30,S2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,22,16,32.5,Subadult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,20:30,Q2,Phyllostomidae,Carollia,Carollia.brevicauda,male,32,16,38.7,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,21:30,S2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,94,32,68.6,adult,S,N/A,FS,FS2,edge,Highly.cluttered.space.canopy.frugivores
+06/04/14,21:30,Q1,Phyllostomidae,Carollia,Carollia.benkeithi,male,24,12,33.8,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,21:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.elongatus,male,52,18,66.5,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.omnivores
+06/04/14,21:30,S1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,26,16,35.5,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,21:30,S1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,26,16,35,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,21:30,B1,Phyllostomidae,Carollia,Carollia.brevicauda,female,28,12,38.7,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,21:30,B1,Phyllostomidae,Dermanura,Dermanura.anderseni,female,26,16,36,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.canopy.frugivores
+06/04/14,22:00,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,70,11,68.7,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.canopy.frugivores
+06/04/14,22:30,B1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.sanguivores
+06/04/14,22:30,B1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.sanguivores
+06/04/14,23:00,S1,Phyllostomidae,Sturnira,Sturnira.magna,male,56,12,60.9,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,23:30,Q1,Phyllostomidae,Carollia,Carollia.benkeithi,male,30,18,36.3,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/04/14,23:30,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,72,12,66.2,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.canopy.frugivores
+06/04/14,23:30,S2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,46,12,56.9,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.canopy.frugivores
+06/04/14,23:30,S2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,54,18,59,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.canopy.frugivores
+06/04/14,23:30,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,78,16,67.7,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.canopy.frugivores
+06/05/14,18:00,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.omnivores
+06/05/14,18:00,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.omnivores
+06/05/14,18:00,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.omnivores
+06/05/14,18:00,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.omnivores
+06/05/14,18:00,S1,Phyllostomidae,Phyllostomus,Phyllostomus.elongatus,male,N/A,N/A,66.3,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.omnivores
+06/05/14,18:00,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.omnivores
+06/05/14,18:00,B2,Phyllostomidae,Carollia,Carollia.brevicauda,female,32,16,38.2,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/05/14,18:00,B2,Phyllostomidae,Carollia,Carollia.benkeithi,male,22,12,33.4,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/05/14,18:00,S1,Phyllostomidae,Carollia,Carollia.perspicillata,male,30,12,41.8,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/05/14,18:00,Q1,Phyllostomidae,Carollia,Carollia.brevicauda,male,34,18,39,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/05/14,18:00,Q1,Phyllostomidae,Uroderma ,Uroderma.bilobatum,male,34,18,42.3,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/05/14,18:30,S2,Phyllostomidae,Carollia,Carollia.perspicillata,male,34,16,40.4,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/05/14,20:00,S2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,26,16,34.3,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/05/14,20:00,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,78,16,68.1,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.canopy.frugivores
+06/05/14,22:00,B2,Phyllostomidae,Lonchophylla ,Lonchophylla.thomasi,male,22,16,32.5,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.nectarivores
+06/05/14,22:30,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,69,11,67.3,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.canopy.frugivores
+06/05/14,23:00,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,98,18,72.6,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.canopy.frugivores
+06/05/14,23:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,128,40,82.5,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.omnivores
+06/05/14,23:00,S1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,50,12,59.1,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.canopy.frugivores
+06/05/14,23:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,144,40,83.7,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.omnivores
+06/05/14,23:00,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,70,12,66,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.canopy.frugivores
+06/05/14,23:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,141,N/A,85,adult,Pr,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.omnivores
+06/06/14,18:00,Q2,Phyllostomidae,Carollia,Carollia.brevicauda,female,30,16,39.7,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/06/14,18:00,S1,Phyllostomidae,Trachops ,Trachops.cirrhosus,female,47,17,59.2,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.carnivores
+06/06/14,18:00,S1,Phyllostomidae,Trachops ,Trachops.cirrhosus,female,47,12,58.7,adult,PD,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.carnivores
+06/06/14,18:30,B1,Phyllostomidae,Mesophylla ,Mesophylla.macconnelli,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/06/14,18:30,B2,Phyllostomidae,Carollia,Carollia.perspicillata,female,33,17,43,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/06/14,18:30,B2,Phyllostomidae,Carollia,Carollia.benkeithi,female,22,12,35.3,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/06/14,19:00,B2,Phyllostomidae,Carollia,Carollia.perspicillata,male,29,11,41.4,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/06/14,19:30,B2,Phyllostomidae,Mesophylla ,Mesophylla.macconnelli,male,29,12,30.9,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/06/14,20:00,B2,Phyllostomidae,Carollia,Carollia.brevicauda,male,27,13,39,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/06/14,20:30,S1,Phyllostomidae,Carollia,Carollia.perspicillata,N/A,26,13,40.2,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/06/14,21:30,Q1,Phyllostomidae,Dermanura,Dermanura.anderseni,female,29,17,36.4,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.canopy.frugivores
+06/06/14,22:00,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,88,34,65.7,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.canopy.frugivores
+06/06/14,23:00,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.canopy.frugivores
+06/06/14,23:00,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,84,12,68.7,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.canopy.frugivores
+06/06/14,23:30,S2,Phyllostomidae,Artibeus,Artibeus.lituratus,female,102,17,75.1,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.canopy.frugivores
+06/06/14,23:00,Q2,Phyllostomidae,Sturnira,Sturnira.cf.luisi,male,42,18,46.7,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/06/14,23:00,Q1,Phyllostomidae,Carollia,Carollia.brevicauda,male,31,16,39.8,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/08/14,18:00,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.omnivores
+06/08/14,18:00,S1,Phyllostomidae,Trachops ,Trachops.cirrhosus,male,58,22,62.8,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.carnivores
+06/08/14,18:30,Q2,Phyllostomidae,Rhinophylla ,Rhinophylla.fischerae,female,23,16,N/A,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/08/14,18:30,B1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,98,16,81.7,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.omnivores
+06/08/14,18:30,B1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,72,18,65.9,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.canopy.frugivores
+06/08/14,18:30,B1,Phyllostomidae,Vampyriscus,Vampyriscus.brockii,male,24,16,32.1,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.canopy.frugivores
+06/08/14,19:00,S1,Phyllostomidae,Carollia,Carollia.brevicauda,male,28,12,40.3,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/08/14,20:00,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,22,10,35.1,adult,PD,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/08/14,20:30,S2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,male,32,22,33.4,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/08/14,20:30,B1,Phyllostomidae,Artibeus,Artibeus.lituratus,male,90,18,69.7,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.canopy.frugivores
+06/08/14,21:00,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,72,16,66.6,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.canopy.frugivores
+06/08/14,22:00,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,female,34,16,43.3,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/08/14,22:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.omnivores
+06/08/14,22:30,Q1,Phyllostomidae,Carollia,Carollia.brevicauda,female,26,10,39.4,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/08/14,22:30,S1,Phyllostomidae,Vampyressa ,Vampyressa.thyone,male,26,18,32.3,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.canopy.frugivores
+06/08/14,22:30,S1,Phyllostomidae,Vampyriscus,Vampyriscus.brockii,male,24,16,32.4,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.canopy.frugivores
+06/08/14,23:00,Q1,Phyllostomidae,Mesophylla ,Mesophylla.macconnelli,male,22,16,29.7,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/08/14,23:00,Q2,Phyllostomidae,Mesophylla ,Mesophylla.macconnelli,male,24,16,29.9,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/08/14,23:00,S1,Phyllostomidae,Sturnira,Sturnira.tildae,male,38,N/A,47.3,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/08/14,23:30,B1,Phyllostomidae,Carollia,Carollia.brevicauda,male,27,11,38.3,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/09/14,18:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,N/A,N/A,N/A,N/A,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.gleaning.omnivores
+06/09/14,18:00,Q2,Phyllostomidae,Artibeus,Artibeus.lituratus,female,103,16,74.2,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.canopy.frugivores
+06/09/14,18:00,B2,Phyllostomidae,Mesophylla ,Mesophylla.macconnelli,male,24,16,N/A,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/09/14,18:30,B1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,54,14,58.9,adult,PD,N/A,F,F1,matrix,Highly.cluttered.space.canopy.frugivores
+06/09/14,20:00,S2,Phyllostomidae,Mesophylla ,Mesophylla.macconnelli,female,24,17,31.7,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/09/14,20:30,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,72,12,67.7,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.canopy.frugivores
+06/09/14,20:30,B2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,54,12,59.6,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.canopy.frugivores
+06/09/14,21:00,B1,Phyllostomidae,Uroderma ,Uroderma.bilobatum,male,35,16,40.3,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/09/14,21:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.gleaning.omnivores
+06/09/14,21:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,N/A,N/A,N/A,N/A,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.gleaning.omnivores
+06/09/14,21:30,S1,Phyllostomidae,Carollia,Carollia.brevicauda,male,26,11,38.7,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/09/14,21:30,S2,Phyllostomidae,Glossophaga ,Glossophaga.soricina,male,27,17,N/A,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.gleaning.nectarivores
+06/09/14,22:30,B1,Phyllostomidae,Artibeus,Artibeus.lituratus,male,84,10,72,adult,S,N/A,F,F1,matrix,Highly.cluttered.space.canopy.frugivores
+06/09/14,22:30,B1,Phyllostomidae,Uroderma ,Uroderma.bilobatum,N/A,N/A,N/A,N/A,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/09/14,22:30,B2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,24,16,33.7,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/09/14,23:00,S1,Phyllostomidae,Carollia,Carollia.brevicauda,N/A,30,17,41.3,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/09/14,23:00,B2,Phyllostomidae,Carollia,Carollia.perspicillata,female,33,15,42.4,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/09/14,23:00,B2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,25,16,35.1,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/09/14,23:00,B2,Phyllostomidae,Carollia,Carollia.brevicauda,female,26,11,39.7,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/10/14,18:00,B1,Phyllostomidae,Tonatia,Tonatia.saurophila,male,43,16,57.1,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.insectivores
+06/10/14,18:00,Q1,Phyllostomidae,Vampyriscus,Vampyriscus.bidens,male,27,12,36.8,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/10/14,20:30,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,80,17,66.1,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.canopy.frugivores
+06/11/14,18:30,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,76,16,64.9,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.canopy.frugivores
+06/11/14,19:00,S1,Phyllostomidae,Carollia,Carollia.perspicillata,female,34,17,41.8,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/11/14,19:00,Q2,Phyllostomidae,Vampyriscus,Vampyriscus.bidens,male,38,16,36.1,subadult,N/A,N/A,F,F1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/11/14,19:00,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,74,16,65.4,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.canopy.frugivores
+06/11/14,19:00,B1,Phyllostomidae,Carollia,Carollia.perspicillata,female,32,16,42.1,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/11/14,22:30,Q1,Phyllostomidae,Mesophylla ,Mesophylla.macconnelli,male,24,15,31.7,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/12/14,18:00,S1,Phyllostomidae,Phyllostomus,Phyllostomus.elongatus,female,48,16,63.5,adult,N/A,N/A,F,F1,edge,Highly.cluttered.space.gleaning.omnivores
+06/12/14,20:00,Q2,Phyllostomidae,Chrotopterus,Chrotopterus.auritus,male,95,15,77.2,adult,N/A,N/A,F,F1,stream,Highly.cluttered.space.gleaning.carnivores
+06/12/14,22:00,B2,Phyllostomidae,Carollia,Carollia.perspicillata,female,33,16,39.4,adult,N/A,N/A,F,F1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/13/14,18:00,B2,Phyllostomidae,Rhinophylla ,Rhinophylla.fischerae,male,24,16,31.4,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/13/14,18:00,Q2,Phyllostomidae,Rhinophylla ,Rhinophylla.fischerae,male,25,17,30.6,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/13/14,18:00,Q1,Phyllostomidae,Carollia,Carollia.benkeithi,N/A,22,11,35.5,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/13/14,18:00,Q1,Phyllostomidae,Carollia,Carollia.benkeithi,female,25,15,32.7,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/13/14,18:00,B2,Phyllostomidae,Mesophylla ,Mesophylla.macconnelli,female,24,17,31.9,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/13/14,18:30,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,male,33,16,38.9,adult,S,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/13/14,18:30,Q2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,male,26,16,33.7,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/13/14,18:30,Q1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,54,16,58,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+06/13/14,18:30,Q1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,52,16,58.1,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+06/13/14,18:30,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,24,17,34.1,subadult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/13/14,19:00,Q2,Phyllostomidae,Carollia,Carollia.benkeithi,female,36,23,38.2,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/13/14,19:30,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,61,16,64,adult,PD,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+06/13/14,20:00,B1,Phyllostomidae,Dermanura,Dermanura.anderseni,male,27,16,36,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.canopy.frugivores
+06/13/14,20:00,B2,Phyllostomidae,Carollia,Carollia.brevicauda,male,24,11,39.9,subadult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/13/14,21:00,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,23,11,34.7,adult,Pr,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/13/14,21:30,Q2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,26,16,34.7,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/13/14,21:30,B1,Phyllostomidae,Sturnira,Sturnira.lilium,male,36,11,44.8,adult,S,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/13/14,21:30,B2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,21,11,34.1,subadult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/13/14,22:30,Q1,Phyllostomidae,Carollia,Carollia.benkeithi,male,29,19,36.5,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/13/14,22:30,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,72,12,65.1,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.canopy.frugivores
+06/13/14,23:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/16/14,18:00,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,female,32,18,41.2,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/16/14,18:30,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,40,12,56.4,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+06/16/14,19:30,Q1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,56,17,59,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+06/16/14,19:30,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,28,16,33.5,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/16/14,23:00,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,96,30,70.3,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+06/16/14,23:00,Q2,Phyllostomidae,Dermanura,Dermanura.gnoma,male,22,11,37.4,adult,S,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+06/17/14,18:00,B2,Phyllostomidae,Mesophylla ,Mesophylla.macconnelli,male,23,16,32,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/17/14,18:00,B2,Phyllostomidae,Mesophylla ,Mesophylla.macconnelli,female,26,17,32.6,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/17/14,18:00,B2,Phyllostomidae,Mesophylla ,Mesophylla.macconnelli,male,24,16,32.2,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/17/14,18:00,S2,Phyllostomidae,Uroderma ,Uroderma.bilobatum,male,53,16,44.5,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/17/14,18:00,Q2,Phyllostomidae,Mesophylla ,Mesophylla.macconnelli,male,21,15,N/A,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/17/14,18:00,Q2,Phyllostomidae,Carollia,Carollia.benkeithi,female,25,16,34.7,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/17/14,18:30,Q1,Phyllostomidae,Carollia,Carollia.benkeithi,female,28,16,36.1,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/17/14,18:30,S1,Phyllostomidae,Artibeus,Artibeus.obscurus,male,40,11,56.6,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.canopy.frugivores
+06/17/14,18:30,S1,Phyllostomidae,Trachops ,Trachops.cirrhosus,female,41,10,62,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.gleaning.carnivores
+06/17/14,19:00,Q2,Phyllostomidae,Sturnira,Sturnira.tildae,female,42,16,48,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/17/14,20:00,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,50,11,60.6,adult,Pr,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+06/17/14,21:00,Q1,Phyllostomidae,Lophostoma ,Lophostoma.silvicolum,female,49,17,53.9,adult,Pr,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.insectivores
+06/17/14,22:00,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,52,15,54.9,adult,S,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+06/17/14,21:00,B2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,22,16,34,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/17/14,22:00,Q1,Phyllostomidae,Lophostoma ,Lophostoma.silvicolum,male,52,16,54.3,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.insectivores
+06/17/14,22:30,Q2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.sanguivores
+06/17/14,23:00,Q2,Phyllostomidae,Rhinophylla ,Rhinophylla.fischerae,female,25,N/A,31.8,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/17/14,23:00,B1,Phyllostomidae,Trinycteris,Trinycteris.nicefori,female,N/A,N/A,39.3,adult,Pr,CEBIOMAS0427,FS,FS1,matrix,Highly.cluttered.space.gleaning.insectivores
+06/17/14,23:30,S2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,46,12,59.6,subadult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.canopy.frugivores
+06/17/14,23:30,Q1,Phyllostomidae,Carollia,Carollia.benkeithi,male,29,16,35.5,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/18/14,18:00,B1,Phyllostomidae,Mesophylla ,Mesophylla.macconnelli,female,26,18,32.1,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/18/14,18:30,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,73,11,63.2,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.canopy.frugivores
+06/18/14,18:30,S2,Phyllostomidae,Uroderma ,Uroderma.bilobatum,female,30,12,42.4,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/18/14,19:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,82,16,67.6,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+06/18/14,20:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,111,17,87,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/18/14,20:30,B2,Phyllostomidae,Vampyriscus,Vampyriscus.bidens,male,28,16,36.7,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/18/14,20:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,119,16,87,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/18/14,20:30,S1,Phyllostomidae,Sturnira,Sturnira.lilium,female,33,13,43.6,adult,N/A,N/A,FS,FS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/18/14,21:30,B2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,25,16,34.5,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/18/14,23:30,B1,Phyllostomidae,Carollia,Carollia.brevicauda,male,26,16,41,adult,N/A,N/A,FS,FS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/18/14,23:30,Q2,Phyllostomidae,Artibeus,Artibeus.lituratus,male,80,18,70.3,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+06/18/14,23:30,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,68,35,58,adult,N/A,N/A,FS,FS1,stream,Highly.cluttered.space.canopy.frugivores
+06/19/14,18:30,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+06/19/14,18:30,S2,Phyllostomidae,Artibeus,Artibeus.lituratus,female,N/A,N/A,N/A,adult,Pr,N/A,RS,RS1,edge,Highly.cluttered.space.canopy.frugivores
+06/19/14,18:30,S2,Phyllostomidae,Artibeus,Artibeus.lituratus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.canopy.frugivores
+06/19/14,18:30,S2,Phyllostomidae,Tonatia,Tonatia.saurophila,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.insectivores
+06/19/14,18:30,S2,Phyllostomidae,Carollia,Carollia.brevicauda,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,18:30,S2,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,18:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/19/14,18:30,Q2,Phyllostomidae,Lophostoma ,Lophostoma.silvicolum,female,41,16,53.1,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.insectivores
+06/19/14,18:30,Q2,Phyllostomidae,Sturnira,Sturnira.tildae,male,41,12,48,adult,S,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,18:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,107,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/19/14,18:30,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,42.4,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,19:00,Q2,Phyllostomidae,Lophostoma ,Lophostoma.silvicolum,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.insectivores
+06/19/14,19:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/19/14,19:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/19/14,19:00,Q1,Phyllostomidae,Carollia,Carollia.benkeithi,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,19:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/19/14,18:30,S1,Phyllostomidae,Carollia,Carollia.perspicillata,male,N/A,N/A,42.5,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,18:30,S1,Phyllostomidae,Carollia,Carollia.benkeithi,female,N/A,N/A,36.1,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,18:30,S1,Phyllostomidae,Lonchophylla ,Lonchophylla.thomasi,male,23,16,31.2,adult,S,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.nectarivores
+06/19/14,18:30,S1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,N/A,N/A,34.4,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,18:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/19/14,18:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/19/14,18:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/19/14,18:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/19/14,18:30,Q1,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,18:30,Q1,Phyllostomidae,Artibeus,Artibeus.lituratus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+06/19/14,19:00,Q2,Phyllostomidae,Sturnira,Sturnira.tildae,female,49,23,47.5,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,19:30,S1,Phyllostomidae,Artibeus,Artibeus.obscurus,male,N/A,N/A,58.5,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.canopy.frugivores
+06/19/14,19:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,82.1,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/19/14,19:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.discolor,female,52,N/A,62.3,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/19/14,19:00,B1,Phyllostomidae,Tonatia,Tonatia.saurophila,female,N/A,N/A,56.5,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.insectivores
+06/19/14,19:30,B1,Phyllostomidae,Carollia,Carollia.perspicillata,male,N/A,N/A,41.5,adult,S,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,19:30,B1,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,41.4,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,19:30,B2,Phyllostomidae,Glossophaga ,Glossophaga.soricina,female,25,16,34,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.nectarivores
+06/19/14,19:30,B2,Phyllostomidae,Carollia,Carollia.brevicauda,male,26,12,37.3,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,20:00,Q1,Phyllostomidae,Platyrrhinus,Platyrrhinus.incarum,female,N/A,N/A,33.7,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+06/19/14,20:00,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,male,26,11,45.1,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,20:00,Q1,Phyllostomidae,Micronycteris,Micronycteris.hirsuta,male,N/A,N/A,73.7,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.insectivores
+06/19/14,19:30,S1,Phyllostomidae,Artibeus,Artibeus.lituratus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.canopy.frugivores
+06/19/14,19:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/19/14,20:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,39.4,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/19/14,20:30,Q1,Phyllostomidae,Carollia,Carollia.brevicauda,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,19:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/19/14,20:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/19/14,19:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/19/14,19:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/19/14,19:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/19/14,19:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/19/14,19:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/19/14,19:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/19/14,21:19,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/19/14,19:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/19/14,19:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/19/14,19:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/19/14,20:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/19/14,20:00,S2,Phyllostomidae,Carollia,Carollia.brevicauda,male,N/A,N/A,39,adult,S,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,20:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.elongatus,female,53,12,64.6,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/19/14,20:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/19/14,20:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,125,17,N/A,adult,Pr,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/19/14,20:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,Pr,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/19/14,21:00,Q2,Phyllostomidae,Lophostoma ,Lophostoma.silvicolum,female,38,13,48.9,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.insectivores
+06/19/14,21:00,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,N/A,N/A,58,adult,S,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+06/19/14,21:00,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,N/A,N/A,59.3,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+06/19/14,20:30,B1,Phyllostomidae,Platyrrhinus,Platyrrhinus.incarum,female,N/A,N/A,38.4,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.canopy.frugivores
+06/19/14,20:30,B1,Phyllostomidae,Lophostoma ,Lophostoma.silvicolum,male,38,11,54,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.insectivores
+06/19/14,21:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/19/14,21:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/19/14,21:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/19/14,21:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/19/14,22:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/19/14,22:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.discolor,male,51,N/A,62.2,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/19/14,22:00,B2,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,41.7,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,22:00,B2,Phyllostomidae,Carollia,Carollia.perspicillata,male,N/A,N/A,41,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,22:30,B2,Phyllostomidae,Sturnira,Sturnira.lilium,male,N/A,N/A,45,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,22:30,B1,Phyllostomidae,Sturnira,Sturnira.lilium,female,N/A,N/A,43,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,23:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/19/14,23:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/19/14,23:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/19/14,23:30,B1,Phyllostomidae,Carollia,Carollia.perspicillata,female,28,11,43.3,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,23:30,B1,Phyllostomidae,Carollia,Carollia.brevicauda,male,28,13,40,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,23:30,B2,Phyllostomidae,Carollia,Carollia.perspicillata,female,34,17,41.7,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,23:30,B2,Phyllostomidae,Carollia,Carollia.perspicillata,female,32,13,42.9,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,23:30,Q2,Phyllostomidae,Phylloderma,Phylloderma.stenops,male,78,12,76.3,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,23:30,Q2,Phyllostomidae,Sturnira,Sturnira.magna,male,64,11,59.1,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/19/14,23:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.discolor,male,56,17,61.5,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,18:00,S1,Phyllostomidae,Carollia,Carollia.benkeithi,N/A,25,15,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,18:30,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+06/20/14,18:30,Q1,Phyllostomidae,Trachops ,Trachops.cirrhosus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.carnivores
+06/20/14,18:30,Q2,Phyllostomidae,Artibeus,Artibeus.lituratus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+06/20/14,18:30,Q2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,19:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,19:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,19:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/20/14,19:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/20/14,19:00,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,19:00,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,19:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/20/14,19:00,Q1,Phyllostomidae,Sturnira,Sturnira.tildae,female,N/A,N/A,47.3,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,19:00,Q1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.sanguivores
+06/20/14,19:00,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,19:00,B1,Phyllostomidae,Carollia,Carollia.brevicauda,male,N/A,N/A,39.3,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,19:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/20/14,19:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.elongatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/20/14,19:00,Q1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.sanguivores
+06/20/14,19:00,Q1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.sanguivores
+06/20/14,19:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.elongatus,female,N/A,N/A,64.3,adult,Pr,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/20/14,19:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,19:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,19:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,19:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,19:30,S2,Phyllostomidae,Carollia,Carollia.benkeithi,N/A,N/A,N/A,35,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,19:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,19:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,19:30,S1,Phyllostomidae,Artibeus,Artibeus.obscurus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.canopy.frugivores
+06/20/14,19:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,19:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.elongatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,19:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,19:30,S2,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,45.5,adult,Pr,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,20:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,20:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,Pr,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/20/14,20:00,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,45.4,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,20:00,Q1,Phyllostomidae,Lonchophylla ,Lonchophylla.thomasi,male,N/A,N/A,31.8,adult,S,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.nectarivores
+06/20/14,19:30,B1,Phyllostomidae,Sturnira,Sturnira.tildae,female,N/A,N/A,48,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,19:30,B1,Phyllostomidae,Carollia,Carollia.brevicauda,male,N/A,N/A,39.7,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,19:30,B1,Phyllostomidae,Lonchophylla ,Lonchophylla.thomasi,female,N/A,N/A,30.7,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.nectarivores
+06/20/14,19:30,B2,Phyllostomidae,Sturnira,Sturnira.lilium,female,N/A,N/A,42.9,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,19:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,19:30,S1,Phyllostomidae,Carollia,Carollia.benkeithi,N/A,N/A,N/A,35.5,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,20:00,B1,Phyllostomidae,Carollia,Carollia.perspicillata,male,N/A,N/A,39.3,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,20:00,B1,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,41.4,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,20:00,B1,Phyllostomidae,Sturnira,Sturnira.tildae,male,N/A,N/A,48.1,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,20:00,B1,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,42.1,subadult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,20:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/20/14,20:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,20:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,21:00,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,Pr,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,21:00,S1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.sanguivores
+06/20/14,21:30,Q1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+06/20/14,20:30,S2,Phyllostomidae,Carollia,Carollia.perspicillata,male,N/A,N/A,42.5,adult,S,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,20:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,20:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,20:30,S2,Phyllostomidae,Carollia,Carollia.perspicillata,male,N/A,N/A,42,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,20:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,20:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,21:00,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+06/20/14,21:00,Q2,Phyllostomidae,Lophostoma,Lophostoma.carrikeri,female,N/A,N/A,44.3,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.insectivores
+06/20/14,21:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/20/14,21:00,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+06/20/14,21:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/20/14,21:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/20/14,21:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/20/14,21:30,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,21:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,21:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,21:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,22:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/20/14,21:30,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,N/A,N/A,N/A,42.5,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,21:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/20/14,21:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,21:30,B1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,21:30,B1,Phyllostomidae,Sturnira,Sturnira.tildae,male,N/A,N/A,46.2,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,21:30,B2,Phyllostomidae,Sturnira,Sturnira.lilium,female,N/A,N/A,44.2,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,21:30,B2,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,40.7,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,21:30,B2,Phyllostomidae,Carollia,Carollia.brevicauda,male,N/A,N/A,40.7,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,22:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/20/14,22:30,S1,Phyllostomidae,Lophostoma ,Lophostoma.silvicolum,female,N/A,N/A,N/A,adult,Pr,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.insectivores
+06/20/14,22:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/20/14,22:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/20/14,22:00,S1,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,22:00,B1,Phyllostomidae,Carollia,Carollia.perspicillata,male,N/A,N/A,43.2,subadult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,22:00,B1,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,41,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,22:00,B1,Phyllostomidae,Carollia,Carollia.brevicauda,male,N/A,N/A,38,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,22:00,B2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,22:00,B2,Phyllostomidae,Carollia,Carollia.perspicillata,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,22:00,B2,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,41.3,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,22:00,B2,Phyllostomidae,Carollia,Carollia.brevicauda,male,N/A,N/A,37.6,adult,S,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,23:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/20/14,23:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,22:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,22:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/20/14,23:00,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/20/14,23:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,N/A,N/A,65.4,adult,S,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+06/20/14,23:00,S1,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,45,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,23:00,B2,Phyllostomidae,Sturnira,Sturnira.lilium,male,N/A,N/A,44.1,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,23:00,Q1,Phyllostomidae,Sturnira,Sturnira.cf.luisi,female,N/A,N/A,48.2,adult,N/A,CEBIOMAS0429,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,23:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,85,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/20/14,23:30,Q2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/20/14,23:30,S2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.canopy.frugivores
+06/20/14,23:30,S2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.canopy.frugivores
+06/20/14,23:30,B1,Phyllostomidae,Sturnira,Sturnira.lilium,female,N/A,N/A,44,adult,PDL,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/21/14,18:30,S2,Phyllostomidae,Carollia,Carollia.benkeithi,female,N/A,N/A,35,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/21/14,18:30,S2,Phyllostomidae,Uroderma ,Uroderma.magnirostrum,female,N/A,N/A,41.1,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/21/14,19:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/21/14,19:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/21/14,19:00,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,S,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/21/14,19:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/21/14,19:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/21/14,19:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,Pr,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/21/14,19:30,Q1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.sanguivores
+06/21/14,19:00,B1,Phyllostomidae,Carollia,Carollia.brevicauda,N/A,N/A,N/A,42.1,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/21/14,19:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/21/14,19:30,S2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.sanguivores
+06/21/14,19:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/21/14,19:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/21/14,20:00,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/21/14,20:00,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/21/14,19:30,B1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.sanguivores
+06/21/14,20:00,B1,Phyllostomidae,Dermanura,Dermanura.gnoma,male,N/A,N/A,35.8,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.canopy.frugivores
+06/21/14,19:30,B2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.omnivores
+06/21/14,19:30,B2,Phyllostomidae,Sturnira,Sturnira.lilium,female,N/A,N/A,44.7,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/21/14,20:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/21/14,20:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/21/14,20:00,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,43.4,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/21/14,20:00,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,N/A,N/A,N/A,41.1,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/21/14,20:00,Q2,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,39.3,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/21/14,20:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/21/14,20:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/21/14,20:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.discolor,male,N/A,N/A,65.7,adult,S,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/21/14,20:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/21/14,20:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/21/14,20:30,Q1,Phyllostomidae,Sturnira,Sturnira.tildae,female,N/A,N/A,47.5,adult,PD,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/21/14,21:00,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/21/14,21:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/21/14,21:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/21/14,21:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/21/14,21:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/21/14,21:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,Pr,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/21/14,21:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/21/14,21:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/21/14,21:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.elongatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/21/14,21:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/21/14,21:30,S1,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,42,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/21/14,21:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/21/14,21:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/21/14,21:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/21/14,21:30,S2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,N/A,N/A,68.3,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.canopy.frugivores
+06/21/14,22:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/21/14,22:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.elongatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/21/14,22:00,Q1,Phyllostomidae,Artibeus,Artibeus.obscurus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+06/21/14,22:00,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+06/21/14,22:00,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,N/A,N/A,60.8,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+06/21/14,22:00,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,N/A,N/A,57.6,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+06/21/14,22:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/21/14,22:00,B1,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,37.7,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/21/14,22:00,B1,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,41.3,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/21/14,22:00,B1,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,41.7,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/21/14,22:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/21/14,22:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/21/14,22:00,B2,Phyllostomidae,Chiroderma,Chiroderma.villosum,female,N/A,N/A,47.1,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.canopy.frugivores
+06/21/14,22:00,B2,Phyllostomidae,Carollia,Carollia.perspicillata,male,N/A,N/A,40.1,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/21/14,22:30,S1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,N/A,N/A,59.4,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.canopy.frugivores
+06/21/14,23:00,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/21/14,22:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/21/14,22:30,Q1,Phyllostomidae,Sturnira,Sturnira.tildae,female,N/A,N/A,46,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/21/14,22:30,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,42,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/21/14,23:00,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,N/A,N/A,67.2,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+06/21/14,23:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/21/14,23:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/21/14,23:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/21/14,23:00,B1,Phyllostomidae,Lonchophylla ,Lonchophylla.thomasi,female,N/A,N/A,33.4,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.nectarivores
+06/21/14,23:00,B1,Phyllostomidae,Chiroderma,Chiroderma.trinitatum,female,N/A,N/A,40.8,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.canopy.frugivores
+06/21/14,23:00,B2,Phyllostomidae,Phyllostomus,Phyllostomus.elongatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.omnivores
+06/21/14,23:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/21/14,23:30,B1,Phyllostomidae,Carollia,Carollia.perspicillata,male,N/A,N/A,41.1,adult,S,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/21/14,23:30,B2,Phyllostomidae,Carollia,Carollia.perspicillata,male,N/A,N/A,43.4,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/22/14,18:30,S2,Phyllostomidae,Tonatia,Tonatia.saurophila,male,38,11,58.2,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.insectivores
+06/22/14,18:30,B2,Phyllostomidae,Lophostoma ,Lophostoma.silvicolum,female,45,16,54.4,adult,Pr,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.insectivores
+06/22/14,19:00,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,44.1,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/22/14,19:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/22/14,19:00,B1,Phyllostomidae,Carollia,Carollia.perspicillata,female,34,17,43.1,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/22/14,19:00,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/22/14,19:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/22/14,19:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/22/14,20:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/22/14,20:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/22/14,20:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/22/14,20:00,S2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.sanguivores
+06/22/14,20:00,B1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.sanguivores
+06/22/14,20:00,B1,Phyllostomidae,Carollia,Carollia.perspicillata,female,29,11,44.2,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/22/14,20:00,B2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,50,15,59.5,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.canopy.frugivores
+06/22/14,20:00,B2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,45,12,59.6,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.canopy.frugivores
+06/22/14,20:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/22/14,20:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/22/14,20:30,S1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,57,16,58.7,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.canopy.frugivores
+06/22/14,20:30,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,male,35,17,42,adult,S,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/22/14,21:00,Q1,Phyllostomidae,Dermanura,Dermanura.anderseni,male,37,26,36.7,adult,S,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+06/22/14,20:30,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,female,28,11,41,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/22/14,20:30,B1,Phyllostomidae,Carollia,Carollia.brevicauda,female,30,26,38.2,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/22/14,20:30,B2,Phyllostomidae,Carollia,Carollia.brevicauda,female,30,16,39.7,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/22/14,20:30,B2,Phyllostomidae,Carollia,Carollia.perspicillata,male,26,11,42,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/22/14,21:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/22/14,21:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/22/14,21:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/22/14,21:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/22/14,21:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/22/14,21:00,S2,Phyllostomidae,Carollia,Carollia.perspicillata,female,33,12,42.1,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/22/14,7:12,B2,Phyllostomidae,Sturnira,Sturnira.lilium,female,38,17,43,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/22/14,22:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/22/14,21:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/22/14,21:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/22/14,21:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/22/14,21:30,Q2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.sanguivores
+06/22/14,22:00,S2,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,39,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/22/14,22:00,B2,Phyllostomidae,Carollia,Carollia.perspicillata,female,32,16,40.6,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/22/14,22:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/22/14,22:30,B2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/22/14,22:30,B1,Phyllostomidae,Sturnira,Sturnira.lilium,male,35,11,44.9,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/22/14,22:30,B1,Phyllostomidae,Sturnira,Sturnira.lilium,female,51,23,45.1,adult,Pr,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/22/14,22:30,B1,Phyllostomidae,Sturnira,Sturnira.lilium,female,34,12,44.8,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/22/14,23:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/22/14,23:00,S2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.sanguivores
+06/22/14,23:00,S2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.sanguivores
+06/22/14,23:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+06/22/14,23:00,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/22/14,23:00,S2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.sanguivores
+06/22/14,23:00,B2,Phyllostomidae,Carollia,Carollia.brevicauda,female,28,11,38.7,adult,N/A,CEBIOMAS0430,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/22/14,23:00,B2,Phyllostomidae,Carollia,Carollia.perspicillata,female,32,11,41.8,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/22/14,23:00,B2,Phyllostomidae,Carollia,Carollia.brevicauda,female,33,11,38.1,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/22/14,23:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.omnivores
+06/22/14,23:30,S1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/22/14,23:30,Q2,Phyllostomidae,Artibeus,Artibeus.lituratus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+06/22/14,23:30,S2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,77,16,65.4,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.canopy.frugivores
+06/22/14,23:30,B1,Phyllostomidae,Artibeus,Artibeus.lituratus,male,87,15,66.3,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.canopy.frugivores
+06/22/14,23:30,B2,Phyllostomidae,Carollia,Carollia.perspicillata,male,28,11,42.8,adult,S,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,18:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.omnivores
+06/23/14,18:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+06/23/14,18:00,Q2,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,18:00,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,43,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,18:00,Q2,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,37.6,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,18:00,Q2,Phyllostomidae,Artibeus,Artibeus.lituratus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+06/23/14,18:00,S1,Phyllostomidae,Artibeus,Artibeus.lituratus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.canopy.frugivores
+06/23/14,18:00,S2,Phyllostomidae,Carollia,Carollia.benkeithi,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,18:00,S2,Phyllostomidae,Carollia,Carollia.brevicauda,male,N/A,N/A,41,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,18:00,S2,Phyllostomidae,Carollia,Carollia.brevicauda,male,N/A,N/A,40.6,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,18:00,S2,Phyllostomidae,Dermanura,Dermanura.anderseni,male,N/A,N/A,36,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.canopy.frugivores
+06/23/14,18:30,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+06/23/14,18:30,Q1,Phyllostomidae,Sturnira,Sturnira.lilium,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,18:30,Q1,Phyllostomidae,Carollia,Carollia.benkeithi,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,18:30,S1,Phyllostomidae,Rhinophylla ,Rhinophylla.fischerae,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,18:30,S1,Phyllostomidae,Carollia,Carollia.perspicillata,male,N/A,N/A,42.8,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,18:00,S1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,N/A,N/A,35,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,18:00,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,41.5,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,18:00,S1,Phyllostomidae,Carollia,Carollia.benkeithi,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,18:00,Q1,Phyllostomidae,Carollia,Carollia.benkeithi,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,18:00,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,18:30,Q2,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,19:00,Q2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.sanguivores
+06/23/14,19:00,Q2,Phyllostomidae,Uroderma ,Uroderma.bilobatum,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,18:30,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,19:00,S2,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,39,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,19:30,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,male,N/A,N/A,42,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,19:00,S2,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,38.5,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,19:00,S2,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,39,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,19:00,S2,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,39.7,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,19:00,Q1,Phyllostomidae,Carollia,Carollia.benkeithi,female,N/A,N/A,36.6,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,19:00,Q1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,N/A,N/A,56.6,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+06/23/14,19:00,Q1,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,39.3,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,19:30,S2,Phyllostomidae,Carollia,Carollia.brevicauda,male,N/A,N/A,37,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,19:30,S2,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,39,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,19:00,B1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.canopy.frugivores
+06/23/14,19:30,S2,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,41,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,19:30,B1,Phyllostomidae,Carollia,Carollia.brevicauda,male,N/A,N/A,40.6,adult,S,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,19:30,B1,Phyllostomidae,Glossophaga ,Glossophaga.soricina,female,N/A,N/A,35.6,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.nectarivores
+06/23/14,19:30,B2,Phyllostomidae,Uroderma ,Uroderma.bilobatum,N/A,N/A,N/A,45.4,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,19:30,B2,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,43,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,19:30,Q1,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,41.7,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,20:00,S1,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,42.6,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,20:00,S2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.sanguivores
+06/23/14,20:00,B1,Phyllostomidae,Carollia,Carollia.brevicauda,male,N/A,N/A,40,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,20:00,B1,Phyllostomidae,Carollia,Carollia.benkeithi,female,N/A,N/A,36.6,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,20:00,B1,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,42.6,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,20:00,B1,Phyllostomidae,Sturnira,Sturnira.tildae,female,N/A,N/A,49.3,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,20:00,B2,Phyllostomidae,Glossophaga ,Glossophaga.soricina,female,N/A,N/A,35.2,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.nectarivores
+06/23/14,20:00,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,male,N/A,N/A,41.7,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,20:00,S1,Phyllostomidae,Uroderma ,Uroderma.bilobatum,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,20:00,Q1,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,38.7,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,20:30,B2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.omnivores
+06/23/14,20:30,B2,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,39.5,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,20:30,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+06/23/14,20:30,Q2,Phyllostomidae,Carollia,Carollia.brevicauda,male,N/A,N/A,41,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,21:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.omnivores
+06/23/14,20:30,Q2,Phyllostomidae,Dermanura,Dermanura.gnoma,male,N/A,N/A,38,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+06/23/14,20:30,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,41.3,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,20:30,S2,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,39.7,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,20:30,S2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,20:30,S1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.sanguivores
+06/23/14,21:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.omnivores
+06/23/14,20:30,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,N/A,N/A,63.4,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.canopy.frugivores
+06/23/14,20:30,S1,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,43.7,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,20:30,S1,Phyllostomidae,Carollia,Carollia.benkeithi,male,N/A,N/A,34.8,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,20:30,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,N/A,N/A,N/A,69.7,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.canopy.frugivores
+06/23/14,21:00,B1,Phyllostomidae,Carollia,Carollia.brevicauda,male,N/A,N/A,40.5,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,21:30,Q2,Phyllostomidae,Lophostoma ,Lophostoma.silvicolum,female,N/A,N/A,54.6,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.insectivores
+06/23/14,21:30,Q2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,22:00,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,Pr,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.omnivores
+06/23/14,22:00,S1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.sanguivores
+06/23/14,22:00,Q1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.sanguivores
+06/23/14,22:00,Q1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.sanguivores
+06/23/14,22:00,S2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.sanguivores
+06/23/14,22:00,Q2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.sanguivores
+06/23/14,22:00,S1,Phyllostomidae,Artibeus,Artibeus.lituratus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.canopy.frugivores
+06/23/14,22:30,B1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.canopy.frugivores
+06/23/14,22:30,B2,Phyllostomidae,Carollia,Carollia.perspicillata,male,N/A,N/A,41.6,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,23:00,S1,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,39,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,23:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.omnivores
+06/23/14,23:00,Q1,Phyllostomidae,Carollia,Carollia.benkeithi,male,N/A,N/A,35,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/23/14,23:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.elongatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.omnivores
+06/23/14,23:30,Q2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.sanguivores
+06/23/14,23:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.elongatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.omnivores
+06/23/14,23:30,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,male,N/A,N/A,N/A,adult,S,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,18:00,S1,Phyllostomidae,Rhinophylla ,Rhinophylla.fischerae,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,18:00,Q1,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,39.7,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,18:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,N/A,N/A,67.3,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+06/24/14,18:00,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+06/24/14,18:00,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,N/A,N/A,58,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+06/24/14,18:30,Q1,Phyllostomidae,Carollia,Carollia.brevicauda,male,N/A,N/A,39.7,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,18:30,S1,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,38.3,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,19:00,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,N/A,N/A,60,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+06/24/14,19:00,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+06/24/14,19:00,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,42.8,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,19:00,S1,Phyllostomidae,Carollia,Carollia.benkeithi,male,N/A,N/A,33.4,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,19:00,B1,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,41.9,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,19:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.omnivores
+06/24/14,20:00,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,male,N/A,N/A,43.2,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,20:00,S2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.sanguivores
+06/24/14,19:30,Q2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.sanguivores
+06/24/14,20:00,S2,Phyllostomidae,Dermanura,Dermanura.anderseni,female,N/A,N/A,34.7,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.canopy.frugivores
+06/24/14,20:00,S1,Phyllostomidae,Uroderma ,Uroderma.bilobatum,female,N/A,N/A,45.3,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,20:00,S1,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,41.1,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,20:00,S1,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,41.2,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,20:30,Q2,Phyllostomidae,Sturnira,Sturnira.lilium,male,N/A,N/A,40.9,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,20:00,B1,Phyllostomidae,Carollia,Carollia.benkeithi,female,N/A,N/A,36,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,20:00,B1,Phyllostomidae,Sturnira,Sturnira.lilium,male,N/A,N/A,44.5,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,20:00,B1,Phyllostomidae,Sturnira,Sturnira.magna,female,N/A,N/A,60.1,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,20:30,Q2,Phyllostomidae,Sturnira,Sturnira.magna,male,N/A,N/A,57,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,20:30,B1,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,40.3,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,20:30,B2,Phyllostomidae,Sturnira,Sturnira.lilium,female,N/A,N/A,44.8,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,20:30,B2,Phyllostomidae,Dermanura,Dermanura.anderseni,male,N/A,N/A,35.5,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.canopy.frugivores
+06/24/14,21:00,Q1,Phyllostomidae,Artibeus,Artibeus.lituratus,female,N/A,N/A,75.7,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+06/24/14,21:30,Q1,Phyllostomidae,Artibeus,Artibeus.obscurus,male,N/A,N/A,57.9,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+06/24/14,21:00,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.omnivores
+06/24/14,21:30,Q1,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,41.2,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,21:30,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,40.7,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,21:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.omnivores
+06/24/14,22:00,Q1,Phyllostomidae,Carollia,Carollia.brevicauda,male,N/A,N/A,40,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,22:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.omnivores
+06/24/14,22:00,Q2,Phyllostomidae,Sturnira,Sturnira.cf.luisi,male,N/A,N/A,44.3,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,22:00,B2,Phyllostomidae,Carollia,Carollia.brevicauda,male,N/A,N/A,41.3,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,22:30,S1,Phyllostomidae,Artibeus,Artibeus.obscurus,male,N/A,N/A,60.7,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.canopy.frugivores
+06/24/14,22:30,S1,Phyllostomidae,Carollia,Carollia.benkeithi,female,N/A,N/A,35,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,22:30,B1,Phyllostomidae,Carollia,Carollia.brevicauda,male,N/A,N/A,41.7,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,23:00,Q2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.sanguivores
+06/24/14,23:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.omnivores
+06/24/14,23:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.omnivores
+06/24/14,23:30,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+06/24/14,23:30,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,female,N/A,N/A,43.3,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,23:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.omnivores
+06/24/14,23:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.omnivores
+06/24/14,23:30,Q2,Phyllostomidae,Carollia,Carollia.brevicauda,male,N/A,N/A,39,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,23:30,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,23:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.omnivores
+06/24/14,23:30,B1,Phyllostomidae,Sturnira,Sturnira.lilium,male,N/A,N/A,44,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/24/14,23:30,S2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.canopy.frugivores
+06/25/14,18:00,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+06/25/14,18:00,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/25/14,18:00,Q2,Phyllostomidae,Carollia,Carollia.brevicauda,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/25/14,18:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.omnivores
+06/25/14,18:30,S1,Phyllostomidae,Carollia,Carollia.brevicauda,male,29,12,38.8,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/25/14,18:30,S1,Phyllostomidae,Artibeus,Artibeus.obscurus,male,49,18,58,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.canopy.frugivores
+06/25/14,19:00,S1,Phyllostomidae,Carollia,Carollia.brevicauda,male,29,12,39.2,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/25/14,19:30,Q2,Phyllostomidae,Lonchophylla ,Lonchophylla.thomasi,female,22,15,30.6,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.nectarivores
+06/25/14,19:30,S1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.sanguivores
+06/25/14,20:00,S1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.sanguivores
+06/25/14,20:00,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,49,15,60.2,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+06/25/14,20:00,B2,Phyllostomidae,Carollia,Carollia.perspicillata,male,41,24,42.2,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/25/14,21:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.omnivores
+06/25/14,21:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.omnivores
+06/25/14,22:30,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,83,17,67.9,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+06/25/14,22:30,B2,Phyllostomidae,Carollia,Carollia.perspicillata,N/A,28,12,41.7,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/25/14,22:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.omnivores
+06/25/14,23:00,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,female,33,17,41.6,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/25/14,23:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.omnivores
+06/25/14,23:30,Q1,Phyllostomidae,Sturnira,Sturnira.lilium,female,37,14,44.5,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/26/14,18:30,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,80,15,72,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.canopy.frugivores
+06/26/14,19:00,Q2,Phyllostomidae,Sturnira,Sturnira.tildae,male,N/A,N/A,47.1,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/26/14,19:00,S1,Phyllostomidae,Lionycteris,Lionycteris.spurelli,female,28,15,36,adult,Pr,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.nectarivores
+06/26/14,19:00,S1,Phyllostomidae,Artibeus,Artibeus.obscurus,male,49,12,59,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.canopy.frugivores
+06/26/14,19:00,S1,Phyllostomidae,Carollia,Carollia.perspicillata,female,28,11,42.1,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/26/14,18:00,S1,Phyllostomidae,Carollia,Carollia.perspicillata,female,32,15,42.5,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/26/14,19:30,B2,Phyllostomidae,Glossophaga ,Glossophaga.soricina,male,23,15,33.5,adult,S,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.nectarivores
+06/26/14,19:30,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,female,36,16,42.7,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/26/14,19:30,Q2,Phyllostomidae,Sturnira,Sturnira.tildae,female,42,16,46.2,adult,Pr,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/26/14,20:30,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.omnivores
+06/26/14,21:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.omnivores
+06/26/14,22:00,B1,Phyllostomidae,Carollia,Carollia.perspicillata,female,30,16,44.7,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/26/14,22:00,B1,Phyllostomidae,Carollia,Carollia.perspicillata,male,31,12,40.7,adult,S,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/26/14,22:00,B1,Phyllostomidae,Sturnira,Sturnira.lilium,N/A,38,N/A,44.7,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/26/14,22:00,B1,Phyllostomidae,Sturnira,Sturnira.lilium,male,37,16,42.7,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/26/14,22:00,B2,Phyllostomidae,Sturnira,Sturnira.lilium,male,37,15,44.8,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/26/14,22:30,S1,Phyllostomidae,Carollia,Carollia.perspicillata,female,33,16,42.6,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/26/14,22:30,B1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,51,17,59.8,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.canopy.frugivores
+06/26/14,23:00,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,male,35,16,41.2,adult,S,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/26/14,23:30,Q2,Phyllostomidae,Sturnira,Sturnira.tildae,male,45,16,47.4,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/26/14,23:30,S2,Phyllostomidae,Carollia,Carollia.perspicillata,male,29,13,40.5,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+06/26/14,23:00,B1,Phyllostomidae,Carollia,Carollia.brevicauda,female,29,15,38.6,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+06/26/14,23:30,Q2,Phyllostomidae,Sturnira,Sturnira.tildae,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+06/26/14,23:30,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,65,12,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+06/30/14,18:30,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.omnivores
+06/30/14,20:00,S1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,N/A,N/A,N/A,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.canopy.frugivores
+06/30/14,20:30,S1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.omnivores
+06/30/14,21:30,S1,Phyllostomidae,Sturnira,Sturnira.lilium,female,N/A,N/A,N/A,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/02/14,18:00,S1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,25,16,34.5,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/02/14,21:30,S1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,25,16,33,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/02/14,21:30,B1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,66,12,65.5,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.canopy.frugivores
+07/02/14,22:00,S2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.omnivores
+07/02/14,23:00,S1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,25,16,34,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/03/14,19:30,B1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,22,12,35,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+07/03/14,20:00,S2,Phyllostomidae,Carollia,Carollia.perspicillata,N/A,32,15,42.2,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/03/14,21:00,S2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,25,15,33.6,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/03/14,21:30,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,N/A,N/A,N/A,adult,Pr,N/A,F,F2,stream,Highly.cluttered.space.canopy.frugivores
+07/03/14,23:00,Q1,Phyllostomidae,Artibeus,Artibeus.obscurus,male,47,11,60.5,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.canopy.frugivores
+07/03/14,23:00,B1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,26,18,34.9,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+07/04/14,19:30,S1,Phyllostomidae,Carollia,Carollia.perspicillata,N/A,32,16,N/A,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/04/14,20:00,S2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,108,32,69.4,adult,N/A,N/A,F,F2,edge,Highly.cluttered.space.canopy.frugivores
+07/04/14,20:30,B1,Phyllostomidae,Carollia,Carollia.brevicauda,male,24,11,37.6,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+07/04/14,21:00,S2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,57,16,62.7,adult,Pde,N/A,F,F2,edge,Highly.cluttered.space.canopy.frugivores
+07/04/14,21:30,Q2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,26,16,35.3,adult,N/A,N/A,F,F2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/04/14,22:00,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,78,14,66.9,adult,N/A,N/A,F,F2,matrix,Highly.cluttered.space.canopy.frugivores
+07/04/14,23:30,B2,Phyllostomidae,Carollia,Carollia.brevicauda,male,33,17,39.5,adult,S,N/A,F,F2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+07/05/14,18:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.omnivores
+07/05/14,18:00,S2,Phyllostomidae,Tonatia,Tonatia.saurophila,male,37,17,56.7,subadult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.insectivores
+07/05/14,18:00,B2,Phyllostomidae,Carollia,Carollia.brevicauda,male,35,18,39.8,adult,S,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+07/05/14,19:00,Q1,Phyllostomidae,Carollia,Carollia.benkeithi,male,38,11,34.3,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/05/14,19:30,S1,Phyllostomidae,Carollia,Carollia.perspicillata,male,26,11,41,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/05/14,20:30,Q2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,21,11,34.1,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/05/14,20:30,B1,Phyllostomidae,Phylloderma,Phylloderma.stenops,male,65,12,73.1,adult,S,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+07/05/14,21:00,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,female,28,11,41.3,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/05/14,21:00,B1,Phyllostomidae,Carollia,Carollia.perspicillata,female,36,17,41.7,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+07/05/14,21:00,B1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,26,16,34.4,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+07/05/14,21:30,Q2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,25,16,34.8,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/05/14,22:30,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,75,16,66.8,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.canopy.frugivores
+07/05/14,23:30,Q2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.sanguivores
+07/06/14,18:00,S1,Phyllostomidae,Artibeus,Artibeus.lituratus,female,85,16,73.3,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.canopy.frugivores
+07/06/14,18:00,S2,Phyllostomidae,Carollia,Carollia.perspicillata,female,26,11,41.9,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/06/14,19:30,B1,Phyllostomidae,Carollia,Carollia.perspicillata,female,34,17,42,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+07/06/14,19:30,B1,Phyllostomidae,Carollia,Carollia.brevicauda,male,27,12,38.6,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+07/06/14,19:30,Q1,Phyllostomidae,Sturnira,Sturnira.lilium,female,37,17,41.3,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/06/14,23:00,S1,Phyllostomidae,Sturnira,Sturnira.lilium,male,38,17,43,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/06/14,23:00,B2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,N/A,N/A,N/A,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.omnivores
+07/07/14,19:00,Q1,Phyllostomidae,Sturnira,Sturnira.lilium,male,43,17,44.8,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/07/14,23:30,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,90,18,67.2,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.canopy.frugivores
+07/07/14,23:30,S1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,77,16,68.2,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.canopy.frugivores
+07/07/14,23:30,S1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,25,16,33.7,adult,N/A,N/A,FS,FS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/09/14,18:00,Q1,Phyllostomidae,Mimon,Mimon.crenulatum,male,29,15,50,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.insectivores
+07/09/14,19:00,B2,Phyllostomidae,Carollia,Carollia.benkeithi,female,27,16,34.5,adult,N/A,N/A,FS,FS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+07/09/14,19:30,Q2,Phyllostomidae,Carollia,Carollia.benkeithi,female,29,17,35.7,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/09/14,23:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,29,N/A,N/A,adult,N/A,N/A,FS,FS2,stream,Highly.cluttered.space.gleaning.omnivores
+07/10/14,18:30,Q2,Phyllostomidae,Carollia,Carollia.benkeithi,female,26,16,35.9,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/10/14,18:30,Q2,Phyllostomidae,Carollia,Carollia.benkeithi,female,33,17,38.3,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/10/14,18:30,S2,Phyllostomidae,Carollia,Carollia.brevicauda,female,29,16,37.9,subadult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/10/14,18:30,S2,Phyllostomidae,Uroderma ,Uroderma.magnirostrum,female,37,17,44.5,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/10/14,19:00,Q1,Phyllostomidae,Micronycteris,Micronycteris.minuta,female,19,11,34.5,adult,Pr,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.insectivores
+07/10/14,19:00,Q2,Phyllostomidae,Micronycteris,Micronycteris.minuta,female,33,N/A,35.1,adult,N/A,CEBIOMAS0431,RS,RS1,stream,Highly.cluttered.space.gleaning.insectivores
+07/10/14,20:30,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,male,51,34,42.6,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/10/14,21:30,Q1,Phyllostomidae,Sturnira,Sturnira.lilium,male,39,17,42.4,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/10/14,22:00,S2,Phyllostomidae,Carollia,Carollia.brevicauda,male,33,16,39.9,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/10/14,22:00,B1,Phyllostomidae,Micronycteris,Micronycteris.minuta,female,18,N/A,36.7,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.insectivores
+07/10/14,23:00,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,female,27,11,41,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/10/14,23:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,Pr,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+07/11/14,18:30,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,74,16,66.8,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+07/11/14,18:00,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,85,15,68.3,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+07/11/14,19:00,Q2,Phyllostomidae,Carollia,Carollia.brevicauda,female,34,16,41,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/11/14,19:00,Q1,Phyllostomidae,Phyllostomus,Phyllostomus.elongatus,male,56,17,67.4,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+07/11/14,19:00,S2,Phyllostomidae,Carollia,Carollia.benkeithi,female,29,17,36.6,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/11/14,19:00,S2,Phyllostomidae,Carollia,Carollia.benkeithi,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/11/14,22:30,S2,Phyllostomidae,Uroderma ,Uroderma.bilobatum,female,33,11,41.9,adult,Pr,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/11/14,23:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,91,28,70.2,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+07/12/14,18:30,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.omnivores
+07/12/14,18:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,75,15,68.4,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+07/12/14,18:30,Q1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,27,18,34.7,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/12/14,18:30,Q1,Phyllostomidae,Sturnira,Sturnira.tildae,male,44,15,48,adult,S,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/12/14,19:00,Q1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.sanguivores
+07/12/14,19:00,Q2,Phyllostomidae,Desmodus,Desmodus.rotundus,female,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.sanguivores
+07/12/14,19:00,Q2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.sanguivores
+07/12/14,19:00,Q1,Phyllostomidae,Trinycteris,Trinycteris.nicefori,female,27,15,39.1,adult,Pr,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.insectivores
+07/14/14,18:30,Q1,Phyllostomidae,Mesophylla ,Mesophylla.macconnelli,male,25,18,30.7,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/14/14,18:30,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,75,16,70.3,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+07/14/14,18:30,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,76,17,67.2,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+07/14/14,18:30,Q1,Phyllostomidae,Desmodus,Desmodus.rotundus,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.sanguivores
+07/14/14,19:00,Q1,Phyllostomidae,Carollia,Carollia.brevicauda,male,27,12,38.7,adult,S,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/14/14,19:00,B1,Phyllostomidae,Carollia,Carollia.brevicauda,female,27,12,39.4,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+07/14/14,19:30,Q2,Phyllostomidae,Carollia,Carollia.brevicauda,female,25,12,38.5,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/14/14,19:30,Q2,Phyllostomidae,Carollia,Carollia.brevicauda,female,30,16,39.3,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/14/14,19:30,B1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,21,11,34.5,adult,Pr,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+07/14/14,19:30,B2,Phyllostomidae,Rhinophylla ,Rhinophylla.fischerae,male,23,15,31,adult,S,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+07/14/14,20:00,B1,Phyllostomidae,Lonchophylla ,Lonchophylla.thomasi,female,22,16,31.7,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.nectarivores
+07/14/14,20:30,S1,Phyllostomidae,Carollia,Carollia.perspicillata,female,31,15,41.6,adult,N/A,N/A,RS,RS1,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/14/14,20:30,B2,Phyllostomidae,Platyrrhinus,Platyrrhinus.incarum,female,29,16,38.2,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.canopy.frugivores
+07/14/14,21:00,Q2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.gleaning.sanguivores
+07/14/14,21:00,B2,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,26,16,34.5,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+07/14/14,21:30,B2,Phyllostomidae,Uroderma ,Uroderma.bilobatum,male,34,17,41.9,adult,N/A,N/A,RS,RS1,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+07/14/14,23:30,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,N/A,N/A,N/A,adult,N/A,N/A,RS,RS1,stream,Highly.cluttered.space.canopy.frugivores
+07/15/14,18:00,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,51,11,68.8,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/15/14,18:00,Q2,Phyllostomidae,Carollia,Carollia.brevicauda,female,33,18,40,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/15/14,18:00,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,53,17,58.8,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/15/14,18:30,Q2,Phyllostomidae,Carollia,Carollia.brevicauda,male,34,17,40.7,adult,S,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/15/14,18:30,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,51,16,60.3,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/15/14,18:00,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,70,12,68,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/15/14,18:00,Q1,Phyllostomidae,Sturnira,Sturnira.lilium,female,31,11,42,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/15/14,18:00,Q1,Phyllostomidae,Carollia,Carollia.brevicauda,female,23,11,37.9,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/15/14,18:30,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,male,33,17,42.8,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/15/14,18:30,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,52,17,60.2,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/15/14,18:30,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,male,29,13,41.5,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/15/14,18:30,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,male,33,17,40.7,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/15/14,18:30,Q1,Phyllostomidae,Sturnira,Sturnira.lilium,female,37,16,43.7,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/15/14,18:30,S1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,male,24,15,33.5,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/15/14,18:30,B1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,73,N/A,63.3,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.canopy.frugivores
+07/15/14,19:00,Q1,Phyllostomidae,Carollia,Carollia.brevicauda,male,33,17,39.1,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/15/14,19:00,Q1,Phyllostomidae,Sturnira,Sturnira.lilium,male,41,16,44,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/15/14,19:00,Q1,Phyllostomidae,Sturnira,Sturnira.lilium,male,38,11,42,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/15/14,19:00,Q1,Phyllostomidae,Sturnira,Sturnira.lilium,male,35,11,42.1,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/15/14,19:00,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,male,33,17,42.2,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/15/14,19:00,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,male,31,13,41.1,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/15/14,19:30,S2,Phyllostomidae,Carollia,Carollia.benkeithi,female,27,16,36.4,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/15/14,19:30,Q1,Phyllostomidae,Sturnira,Sturnira.lilium,male,39,16,43.1,adult,S,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/15/14,20:00,S2,Phyllostomidae,Dermanura,Dermanura.anderseni,male,26,N/A,35.9,adult,N/A,CEBIOMAS0433,RS,RS2,edge,Highly.cluttered.space.canopy.frugivores
+07/15/14,20:00,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,female,37,17,42.8,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/15/14,20:30,Q2,Phyllostomidae,Carollia,Carollia.benkeithi,male,29,17,34.5,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/15/14,21:00,Q1,Phyllostomidae,Sturnira,Sturnira.lilium,female,33,12,42.3,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/15/14,21:30,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,male,33,N/A,41.3,adult,S,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/15/14,22:00,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,male,N/A,N/A,42.3,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/15/14,22:00,Q2,Phyllostomidae,Carollia,Carollia.benkeithi,female,27,N/A,38,adult,Pr,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/15/14,22:30,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,89,17,68.7,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/15/14,22:30,B2,Phyllostomidae,Artibeus,Artibeus.lituratus,N/A,87,16,70.1,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.canopy.frugivores
+07/15/14,23:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,82,16,66.6,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/15/14,23:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,84,17,66.3,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/15/14,23:00,Q1,Phyllostomidae,Artibeus,Artibeus.lituratus,female,90,16,74.5,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/16/14,18:30,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,49,17,56.4,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/16/14,18:30,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,69,16,66.7,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/16/14,18:30,S1,Phyllostomidae,Rhinophylla ,Rhinophylla.pumilio,female,25,16,35.6,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/16/14,18:30,S2,Phyllostomidae,Carollia,Carollia.perspicillata,female,33,16,42.1,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/16/14,19:00,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,male,35,17,43.8,adult,S,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/16/14,19:30,Q1,Phyllostomidae,Dermanura,Dermanura.anderseni,male,27,17,35.5,adult,S,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/16/14,19:30,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,55,17,60.2,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/16/14,19:30,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,male,35,16,41.7,adult,S,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/16/14,20:00,Q1,Phyllostomidae,Carollia,Carollia.benkeithi,female,28,15,37,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/16/14,20:00,Q2,Phyllostomidae,Carollia,Carollia.benkeithi,female,26,16,35.7,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/16/14,21:00,Q1,Phyllostomidae,Artibeus,Artibeus.lituratus,male,78,12,70.6,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/16/14,21:00,S2,Phyllostomidae,Sturnira,Sturnira.lilium,male,39,17,43.8,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/16/14,21:00,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,44,12,55.2,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/16/14,21:00,S2,Phyllostomidae,Dermanura,Dermanura.anderseni,male,22,11,36.5,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.canopy.frugivores
+07/16/14,21:30,S2,Phyllostomidae,Desmodus,Desmodus.rotundus,female,N/A,N/A,N/A,adult,Pr,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.sanguivores
+07/16/14,22:30,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,83,17,67.4,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/16/14,22:30,S2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,N/A,N/A,70.9,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.canopy.frugivores
+07/16/14,22:30,Q1,Phyllostomidae,Sturnira,Sturnira.lilium,female,35,17,42.6,subadult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/16/14,22:30,Q1,Phyllostomidae,Carollia,Carollia.brevicauda,female,33,16,39.3,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/16/14,22:30,S1,Phyllostomidae,Carollia,Carollia.perspicillata,male,33,17,42.9,adult,S,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/17/14,18:00,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,77,11,70.4,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/17/14,19:30,B2,Phyllostomidae,Dermanura,Dermanura.anderseni,female,27,17,37.6,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.canopy.frugivores
+07/17/14,19:30,B1,Phyllostomidae,Dermanura,Dermanura.cf.cinerea,male,26,17,36.6,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.canopy.frugivores
+07/17/14,20:00,B2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,79,16,68.3,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.canopy.frugivores
+07/17/14,20:30,Q2,Phyllostomidae,Dermanura,Dermanura.cf.cinerea,male,27,N/A,38.1,adult,N/A,CEBIOMAS0435,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/17/14,20:30,S2,Phyllostomidae,Artibeus,Artibeus.planirostris,female,74,17,N/A,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.canopy.frugivores
+07/17/14,20:30,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,69,12,66,adult,S,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/17/14,21:00,Q1,Phyllostomidae,Sturnira,Sturnira.lilium,male,39,16,43.2,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/17/14,20:30,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,73,13,69.2,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/17/14,20:30,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,female,77,16,67.6,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/17/14,20:30,Q1,Phyllostomidae,Tonatia,Tonatia.saurophila,female,47,18,58,adult,Pr,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.insectivores
+07/17/14,21:00,Q2,Phyllostomidae,Artibeus,Artibeus.planirostris,male,77,17,67.8,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/17/14,21:30,Q1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,47,11,58.8,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/17/14,23:30,Q1,Phyllostomidae,Artibeus,Artibeus.obscurus,female,55,17,57,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/17/14,23:30,B2,Phyllostomidae,Uroderma ,Uroderma.bilobatum,female,27,11,42.1,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+07/17/14,23:30,B2,Phyllostomidae,Sturnira,Sturnira.tildae,female,33,11,49,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+07/17/14,23:30,B1,Phyllostomidae,Dermanura,Dermanura.anderseni,male,26,16,35.2,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.canopy.frugivores
+07/17/14,23:30,B1,Phyllostomidae,Dermanura,Dermanura.anderseni,female,25,15,37.6,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.canopy.frugivores
+07/21/14,19:00,Q2,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.sanguivores
+07/21/14,19:00,S2,Phyllostomidae,Artibeus,Artibeus.obscurus,female,49,17,55.3,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.canopy.frugivores
+07/21/14,19:00,Q1,Phyllostomidae,Artibeus,Artibeus.obscurus,male,48,12,59.3,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/21/14,19:30,Q2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,55,17,59.2,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/21/14,20:30,Q1,Phyllostomidae,Carollia,Carollia.perspicillata,male,29,13,40,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/21/14,21:00,S2,Phyllostomidae,Artibeus,Artibeus.obscurus,male,48,14,57.5,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.canopy.frugivores
+07/21/14,20:30,B2,Phyllostomidae,Carollia,Carollia.brevicauda,male,33,16,47,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+07/21/14,20:30,B2,Phyllostomidae,Carollia,Carollia.perspicillata,female,29,15,42.1,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+07/21/14,20:30,B2,Phyllostomidae,Carollia,Carollia.benkeithi,female,31,11,35.8,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+07/21/14,21:00,B2,Phyllostomidae,Uroderma ,Uroderma.bilobatum,male,29,13,40.3,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+07/21/14,21:30,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,female,33,17,40.9,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/21/14,22:00,S2,Phyllostomidae,Carollia,Carollia.benkeithi,female,23,13,36.2,adult,N/A,N/A,RS,RS2,edge,Highly.cluttered.space.gleaning.shrub.frugivores
+07/21/14,22:00,Q1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.sanguivores
+07/21/14,22:00,Q2,Phyllostomidae,Carollia,Carollia.benkeithi,male,23,11,36,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
+07/21/14,23:00,Q1,Phyllostomidae,Artibeus,Artibeus.planirostris,male,85,18,69.7,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/21/14,23:00,Q2,Phyllostomidae,Phyllostomus,Phyllostomus.hastatus,male,120,18,83.4,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.omnivores
+07/21/14,23:30,B2,Phyllostomidae,Carollia,Carollia.perspicillata,female,34,16,43,adult,N/A,N/A,RS,RS2,matrix,Highly.cluttered.space.gleaning.shrub.frugivores
+07/21/14,23:30,Q1,Phyllostomidae,Artibeus,Artibeus.obscurus,male,53,17,60.2,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.canopy.frugivores
+07/21/14,23:30,Q1,Phyllostomidae,Desmodus,Desmodus.rotundus,N/A,N/A,N/A,N/A,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.sanguivores
+07/21/14,23:30,Q2,Phyllostomidae,Carollia,Carollia.perspicillata,male,34,17,42.7,adult,N/A,N/A,RS,RS2,stream,Highly.cluttered.space.gleaning.shrub.frugivores
