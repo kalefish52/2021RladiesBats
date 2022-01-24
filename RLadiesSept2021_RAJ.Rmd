@@ -75,10 +75,9 @@ To see a list of files in the directory you are currently in: ls; windows: dir
 3) Press commit in the git window and write the message 
 4) Push your changes 
 
-
 # Now lets look at our data 
 ```{r}
-# First where are we? 
+# First where are we? R'
 getwd()  # prints out current working directory 
 
 read.csv("/Users/rawanaljudeid/Desktop/2021RladiesBats/Bats_Capture_Database.csv") # Absolute file path 
