@@ -7,14 +7,9 @@ output:
   pdf_document: default
 ---
 
-Make Branch change 2 
 Kaleigh push/pull practice
 eder is cool
-
-Eder is here
-I'm eating Chicken for lunch
-
-Rawan push/pull practice
+Rawan push/pull practice  
 # Best practices for data management
 1. Organize data and projects in an accessible way - for both the primary investigator and others 
 + Descriptive naming 
@@ -80,23 +75,38 @@ To see a list of files in the directory you are currently in: ls; windows: dir
 3) Press commit in the git window and write the message 
 4) Push your changes 
 
-
 # Now lets look at our data 
 ```{r}
-# First where are we? 
+# First where are we? R'
 getwd()  # prints out current working directory 
 
 read.csv("/Users/rawanaljudeid/Desktop/2021RladiesBats/Bats_Capture_Database.csv") # Absolute file path 
+# to get get to here you can type getwd() in console and that will give you where you at.. 
+
+
 data<-read.csv("./Bats_Capture_Database.csv") # Relative file path 
 data
 
 # What are the columns? 
-names(data) # can also look at readme file 
+names(data) # can also look at readme file (you can find this in the website https://datadryad.org/stash/dataset/doi:10.5061/dryad.3td78sk , it explain which each name in the  table means)
+names(data)
+# whene you type function name and <- it will save the info under ENvironment so later you don't have to look up the entire thing
+
+
 # How many samples do we have? 
 nrow(data)
 print(paste("We have", nrow(data), "bat samples."))
+Genus<-unique(data$Genus)
+class(Genus)
+class(data)
+length(Genus)
 
+matrixdata<-as.matrix(data)
+unique(data$species)
+class(matrixdata)
+as.data.frame(matrixdata)
 head(data)
+
 ```
 
 # Descriptive Info about Data
@@ -110,13 +120,17 @@ print(paste("There are", nrow(batspec), "species in the dataset."))
 
 
 # Reduce dataframe
-SpeciesRed<-unique(data[c("Habitat", "Species")]) 
+data[c("Habitat", "Species")]
+unique(data[c("Habitat", "Species")]) 
 SpeciesRed[order(SpeciesRed$Habitat),]
+
+SpeciesReds
 
 # How many species in each habitat type? 
 SpeciesRich<-aggregate(Species~Habitat,
                      data=SpeciesRed,
                      FUN=length)
+# Change here
 
 # Graph it 
 ggplot(data=SpeciesRich, aes(x=Habitat, y=Species)) +
