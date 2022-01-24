@@ -75,10 +75,9 @@ To see a list of files in the directory you are currently in: ls; windows: dir
 3) Press commit in the git window and write the message 
 4) Push your changes 
 
-
 # Now lets look at our data 
 ```{r}
-# First where are we? 
+# First where are we? R'
 getwd()  # prints out current working directory 
 
 read.csv("/Users/rawanaljudeid/Desktop/2021RladiesBats/Bats_Capture_Database.csv") # Absolute file path 
@@ -131,6 +130,10 @@ SpeciesReds
 SpeciesRich<-aggregate(Species~Habitat,
                      data=SpeciesRed,
                      FUN=length)
+#you can code different name and classes of the families and you create a graph... google some tech for coding the graphs and how to create them use the link to see how to create new graphs http://www.cookbook-r.com/Graphs/
+
+
+# ggsave is to save the graph or figure in any folder in your computer. 
 # Change here
 
 # Graph it 
