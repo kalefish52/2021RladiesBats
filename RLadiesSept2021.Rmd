@@ -10,6 +10,7 @@ output:
 Kaleigh push/pull practice
 eder is cool
 Eder is here
+I'm eating Chicken for lunch
 # Best practices for data management
 1. Organize data and projects in an accessible way - for both the primary investigator and others 
 + Descriptive naming 
