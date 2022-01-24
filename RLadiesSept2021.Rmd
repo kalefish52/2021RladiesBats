@@ -10,7 +10,10 @@ output:
 Make Branch change 2 
 Kaleigh push/pull practice
 eder is cool
-Rawan push/pull practice  
+Rawan push/pull practice, I had coffee 
+Eder is here
+I'm eating Chicken for lunch
+
 # Best practices for data management
 1. Organize data and projects in an accessible way - for both the primary investigator and others 
 + Descriptive naming 
@@ -98,6 +101,7 @@ head(data)
 # Descriptive Info about Data
 ```{r}
 library(ggplot2)
+library(ggpubr)
 names(data)
 # How many bat species are in the dataset? 
 batspec<-unique(data["Species"]) 
@@ -118,6 +122,7 @@ SpeciesRich<-aggregate(Species~Habitat,
 ggplot(data=SpeciesRich, aes(x=Habitat, y=Species)) +
     geom_bar(colour="black", stat="identity")
 
+ggsave("./Figures/BatSpecies.png")
 # Explore the aggregate function by looking at other parts of the data 
 ```
 
