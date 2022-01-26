@@ -14,7 +14,11 @@ Rawan push/pull practice, I had coffee
 Eder is here
 I'm eating Chicken for lunch
 Hello - Kaleigh
+
 Hello-Blanca
+
+Hello - Kaleigh
+
 # Best practices for data management
 1. Organize data and projects in an accessible way - for both the primary investigator and others 
 + Descriptive naming 
