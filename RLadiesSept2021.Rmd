@@ -85,7 +85,7 @@ To see a list of files in the directory you are currently in: ls; windows: dir
 # First where are we? 
 getwd()  # prints out current working directory 
 
-read.csv("/Users/rawanaljudeid/Desktop/2021RladiesBats/Bats_Capture_Database.csv") # Absolute file path 
+#read.csv("/Users/rawanaljudeid/Desktop/2021RladiesBats/Bats_Capture_Database.csv") # Absolute file path 
 data<-read.csv("./Bats_Capture_Database.csv") # Relative file path 
 data
 
@@ -96,6 +96,7 @@ nrow(data)
 print(paste("We have", nrow(data), "bat samples."))
 
 head(data)
+ncol(data)
 ```
 
 # Descriptive Info about Data
