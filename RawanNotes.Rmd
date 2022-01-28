@@ -141,6 +141,7 @@ data$Forearm
 hist(data$Forearm)
 ggplot(data=SpeciesRich, aes(x=Habitat, y=Species)) +
     geom_bar(colour="black", stat="identity")
+ggsave("./Figures/histForearm.png")
 
 # Explore the aggregate function by looking at other parts of the data 
 ```
