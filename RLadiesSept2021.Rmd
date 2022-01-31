@@ -39,16 +39,14 @@ For resources on how to set up git desktop, git2r and trouble shooting visit thi
 
 # Intro to Github
 1. Make a github account
-2. Make a repo "2021RladiesBison" 
 
-change here :) 
 
 Let's download some data to put into the repository 
 This data is from dryad - Do riparian forest strips in modified forest landscapes aid in conserving bat diversity?
 https://datadryad.org/stash/dataset/doi:10.5061/dryad.3td78sk
 *make sure to save as csv first and then upload to git
 
-# Navigating folders/repositories/directories on the command line 
+# Navigating folders/repositories/directories on the command line (terminal) 
 ls: see list of folders 
 cd: change directory
 mkdir: make a new folder 
