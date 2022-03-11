@@ -71,6 +71,16 @@ To see a list of files in the directory you are currently in: ls; windows: dir
 3) Press commit in the git window and write the message 
 4) Push your changes 
 
+# Branches and Merging 
+- Best practice to make a branch when working on script files rather than the main
+1. Make sure your repo is up to date by pulling 
+2. click on the shape icon on the upper right window in git tab 
+3. Name the branch 
+4. commit and push to branch 
+5. when ready to merge - go to github and navigate to branches 
+6. submit pull request 
+7. solve any merge issues  
+8. commit changes 
 
 # Now lets look at our data 
 ```{r}
