@@ -89,7 +89,6 @@ getwd()  # prints out current working directory
 
 #read.csv("/Users/rawanaljudeid/Desktop/2021RladiesBats/Bats_Capture_Database.csv") # Absolute file path 
 data<-read.csv("./Bats_Capture_Database.csv") # Relative file path 
-data
 
 # What are the columns? 
 names(data) # can also look at readme file 
