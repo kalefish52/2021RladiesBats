@@ -81,7 +81,7 @@ To see a list of files in the directory you are currently in: ls; windows: dir
 6. submit pull request 
 7. solve any merge issues  
 8. commit changes 
-
+Make change here 
 # Now lets look at our data 
 ```{r}
 # First where are we? 
