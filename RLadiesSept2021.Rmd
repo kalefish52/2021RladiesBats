@@ -102,9 +102,13 @@ ncol(data)
 
 # Descriptive Info about Data
 ```{r}
-library(ggplot2)
-library(ggpubr)
+library(ggplot2) # make pretty graphs
+library(ggpubr) # save figures 
+library(plyr) # summary statistics 
 names(data)
+
+# How many bats collected? 
+nrow(data)
 # How many bat species are in the dataset? 
 batspec<-unique(data["Species"]) 
 
@@ -114,18 +118,45 @@ print(paste("There are", nrow(batspec), "species in the dataset."))
 # Reduce dataframe
 SpeciesRed<-unique(data[c("Habitat", "Species")]) 
 SpeciesRed[order(SpeciesRed$Habitat),]
+head(SpeciesRed)
 
 # How many species in each habitat type? 
 SpeciesRich<-aggregate(Species~Habitat,
                      data=SpeciesRed,
                      FUN=length)
+SpeciesRich
 
 # Graph it 
 ggplot(data=SpeciesRich, aes(x=Habitat, y=Species)) +
     geom_bar(colour="black", stat="identity")
 
 ggsave("./Figures/BatSpecies.png")
-# Explore the aggregate function by looking at other parts of the data 
+
+# How many individuals per habitat type and site? 
+head(data)
+
+SiteAbund<-aggregate(Forearm~Habitat + Site.Code, 
+                     data=data,
+                     FUN=length)
+# Rename forearm to abundance for clarity 
+names(SiteAbund)[names(SiteAbund) == "Forearm"] <- "Abundance"
+
+# What is the average abundance across sites for each habitat type? 
+# This generates a dataframe with average and standard deviation so we can plot it
+AbundanceSum<-ddply(SiteAbund, c("Habitat"), summarise,
+      N = length(Abundance), # Number of sites they collected at for each habitat
+      mean = mean(Abundance),
+      sd = sd(Abundance),
+      se = sd / sqrt(N))
+AbundanceSum
+
+ggplot(data=AbundanceSum, aes(x=Habitat, y=mean)) +
+    geom_bar(colour="black", stat="identity") +
+   theme(axis.text.x  = element_text(angle=90, vjust=0.5, size=16)) + 
+  ggtitle("Average Abundance for Each Habitat Type") +
+   geom_errorbar(aes(ymin=mean-se, ymax=mean+se),
+                  width=.2,                    # Width of the error bars
+                  position=position_dodge(.9))
 ```
 
 
