@@ -1,5 +1,5 @@
 ---
-title: "R'ladies - Intro to Github and R"
+title: "Data Management and Reproducibility"
 date: "September 2021" 
 author: "Kaleigh Fisher" 
 output:
