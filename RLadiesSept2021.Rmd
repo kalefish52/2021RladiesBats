@@ -84,6 +84,7 @@ Make change here
 # Now lets look at our data 
 ```{r}
 # First where are we? 
+
 getwd()  # prints out current working directory 
 
 #read.csv("/Users/rawanaljudeid/Desktop/2021RladiesBats/Bats_Capture_Database.csv") # Absolute file path 
