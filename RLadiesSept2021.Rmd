@@ -105,6 +105,7 @@ ncol(data)
 library(ggplot2) # make pretty graphs
 library(ggpubr) # save figures 
 library(plyr) # summary statistics 
+library(tidyr) # data manipulation
 names(data)
 
 # How many bats collected? 
@@ -158,6 +159,51 @@ ggplot(data=AbundanceSum, aes(x=Habitat, y=mean)) +
                   width=.2,                    # Width of the error bars
                   position=position_dodge(.9))
 ```
+
+# Transform Data and Do Stats with Vegan 
+```{r}
+library(vegan) # package for diversity statistics 
+head(data)
+datafilt<-data[, c("Species", "Site.Code", "Habitat", "Forearm")]
+datafilt
+
+datatransform<-aggregate(Forearm~Habitat + Species + Site.Code,
+                     data=datafilt,
+                     FUN=length)
+names(datatransform)
+data_vegan<-pivot_wider(datatransform, 
+                        names_from=Species, values_from=Forearm)
+
+# Make all NAs 0 so it is compatible with vegan - represents 0 individuals of a species at that site
+data_vegan[is.na(data_vegan)]<-0
+
+# Look at data
+head(data_vegan)
+
+# remove first two columns and change into a matrix 
+dataMatrix<-as.matrix(data_vegan[,3:length(data_vegan)])
+dataMatrix
+# Now we can run the metaMDS function in vegan to plot an NMDS
+nmds_data<- metaMDS(dataMatrix, distance="bray")
+stressplot(nmds_data)
+
+# Get NMDS scores
+data.scores=as.data.frame(scores(nmds_data))
+
+# merge sample NMDS info with sample info
+data.scores$Site<-data_vegan$Site.Code
+data.scores$Habitat<-data_vegan$Habitat
+
+head(data.scores)
+# Plot it using ggplot
+NMDS<-ggplot(data.scores, aes(x=NMDS1, y=NMDS2)) + 
+  geom_point(size=4, aes(shape=Site, colour=Habitat))
+  
+NMDS
+ggsave("./Figures/NMDS.png", width=7, height=5)
+
+```
+
 
 
 
