@@ -8,6 +8,7 @@ output:
 ---
 
 # Best practices for data management
+Hello Kaleigh!!
 1. Organize data and projects in an accessible way - for both the primary investigator and others 
 + Descriptive naming 
 + Structured and consistent file approach 
