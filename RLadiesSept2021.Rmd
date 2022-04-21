@@ -71,7 +71,7 @@ To see a list of files in the directory you are currently in: ls; windows: dir
 4) Push your changes 
 
 # Branches and Merging 
-- Best practice to make a branch when working on script files rather than the main
+- Best practice is to make a branch when working on script files rather than the main
 1. Make sure your repo is up to date by pulling 
 2. click on the shape icon on the upper right window in git tab 
 3. Name the branch 
@@ -80,7 +80,7 @@ To see a list of files in the directory you are currently in: ls; windows: dir
 6. submit pull request 
 7. solve any merge issues  
 8. commit changes 
-Make change here 
+
 # Now lets look at our data 
 ```{r}
 # First where are we? 
@@ -165,7 +165,6 @@ ggplot(data=AbundanceSum, aes(x=Habitat, y=mean)) +
 library(vegan) # package for diversity statistics 
 head(data)
 datafilt<-data[, c("Species", "Site.Code", "Habitat", "Forearm")]
-datafilt
 
 datatransform<-aggregate(Forearm~Habitat + Species + Site.Code,
                      data=datafilt,
