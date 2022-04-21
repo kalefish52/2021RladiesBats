@@ -8,7 +8,7 @@ output:
 ---
 
 Make change here
-
+I am showing a merge conflict here 
 # Best practices for data management
 1. Organize data and projects in an accessible way - for both the primary investigator and others 
 + Descriptive naming 
