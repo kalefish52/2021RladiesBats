@@ -1,7 +1,7 @@
 ---
 title: "Data Management and Reproducibility"
 date: "September 2021" 
-author: "Kaleigh Fisher" 
+author: "Kaleigh Fisher; Adepted By Allison Cook" 
 output:
   html_document: default
   pdf_document: default
@@ -89,18 +89,22 @@ To see a list of files in the directory you are currently in: ls; windows: dir
 
 getwd()  # prints out current working directory 
 
-
-
 ##data<-read.csv("/Users/Kaleigh/Dropbox/BatsDataRepo/Bats_Capture_Database.csv") # Absolute file path 
 data<-read.csv("./Bats_Capture_Database.csv") # Relative file path 
-
+```
+```{r}
 # What are the columns? 
 names(data) # can also look at readme file 
+```
+```{r}
 # How many samples do we have? 
 nrow(data)
 print(paste("We have", nrow(data), "bat samples."))
-
+```
+```{r}
 head(data)
+```
+```{r}
 ncol(data)
 ```
 
@@ -111,21 +115,26 @@ library(ggpubr) # save figures
 library(plyr) # summary statistics 
 library(tidyr) # data manipulation
 names(data)
-
+```
+```{r}
 # How many bats collected? 
 nrow(data)
+```
+```{r}
 # How many bat species are in the dataset? 
 batspec<-unique(data["Species"]) 
 
 print(paste("There are", nrow(batspec), "species in the dataset."))
-
-
+```
+```{r}
 # Reduce dataframe
 SpeciesRed<-unique(data[c("Habitat", "Species")]) 
+SpeciesRed
 SpeciesRed[order(SpeciesRed$Habitat),]
 head(SpeciesRed)
-
-# How many species in each habitat type? 
+```
+```{r}
+# species in each habitat type? 
 SpeciesRich<-aggregate(Species~Habitat,
                      data=SpeciesRed,
                      FUN=length)
@@ -136,7 +145,9 @@ ggplot(data=SpeciesRich, aes(x=Habitat, y=Species)) +
     geom_bar(colour="black", stat="identity")
 
 ggsave("./Figures/BatSpecies.png")
+```
 
+```{r}
 # How many individuals per habitat type and site? 
 head(data)
 
@@ -145,7 +156,9 @@ SiteAbund<-aggregate(Forearm~Habitat + Site.Code,
                      FUN=length)
 # Rename forearm to abundance for clarity 
 names(SiteAbund)[names(SiteAbund) == "Forearm"] <- "Abundance"
-
+SiteAbund
+```
+```{r}
 # What is the average abundance across sites for each habitat type? 
 # This generates a dataframe with average and standard deviation so we can plot it
 AbundanceSum<-ddply(SiteAbund, c("Habitat"), summarise,
@@ -154,7 +167,8 @@ AbundanceSum<-ddply(SiteAbund, c("Habitat"), summarise,
       sd = sd(Abundance),
       se = sd / sqrt(N))
 AbundanceSum
-
+```
+```{r}
 ggplot(data=AbundanceSum, aes(x=Habitat, y=mean)) +
     geom_bar(colour="black", stat="identity") +
    theme(axis.text.x  = element_text(angle=90, vjust=0.5, size=16)) + 
@@ -176,28 +190,39 @@ datatransform<-aggregate(Forearm~Habitat + Species + Site.Code,
 names(datatransform)
 data_vegan<-pivot_wider(datatransform, 
                         names_from=Species, values_from=Forearm)
-
+```
+```{r}
 # Make all NAs 0 so it is compatible with vegan - represents 0 individuals of a species at that site
 data_vegan[is.na(data_vegan)]<-0
 
 # Look at data
 head(data_vegan)
-
+```
+```{r}
 # remove first two columns and change into a matrix 
 dataMatrix<-as.matrix(data_vegan[,3:length(data_vegan)])
 dataMatrix
 # Now we can run the metaMDS function in vegan to plot an NMDS
 nmds_data<- metaMDS(dataMatrix, distance="bray")
 stressplot(nmds_data)
-
+```
+```{r}
 # Get NMDS scores
-data.scores=as.data.frame(scores(nmds_data))
 
+(scores(nmds_data)$species)
+```
+```{r}
+(scores(nmds_data)$sites)
+```
+```{r}
+data.scores=as.data.frame(scores(nmds_data)$sites)
 # merge sample NMDS info with sample info
+data.scores
 data.scores$Site<-data_vegan$Site.Code
 data.scores$Habitat<-data_vegan$Habitat
-
 head(data.scores)
+```
+```{r}
 # Plot it using ggplot
 NMDS<-ggplot(data.scores, aes(x=NMDS1, y=NMDS2)) + 
   geom_point(size=4, aes(shape=Site, colour=Habitat))
